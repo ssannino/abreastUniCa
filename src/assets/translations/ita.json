@@ -19,17 +19,17 @@
 				"Tips and tricks on cutting down"
 			],
 			"graphAltText": "A graph showing 'how many units of alcohol drunk per day' on the x-axis with 'number of women out of 100 with breast cancer' on the y-axis. The graph shows how drinking more units of alcohol a day, increases the likelihood of having breast cancer.",
-			"source": "Source: Breast Cancer Now. Information last reviewed: November 2017. Adapted with thanks to Breast Cancer Now."
+			"source": "Sorgente: Breast Cancer Now. Information last reviewed: November 2017. Adapted with thanks to Breast Cancer Now."
 		},
 		"common": {
 			"add": "Add one {{measurement}}",
 			"appName": "Abreast of health",
-			"appDescription": "How can you improve your breast health?",
+			"appDescription": "Come posso migliorare la salute del mio seno?",
 			"cancel": "Cancel",
 			"close": "Close",
 			"endSession": "End Session",
 			"false": "False",
-			"next": "Next",
+			"next": "Avanti",
 			"myData": "My Data",
 			"learnMore": "Learn More",
 			"learnMoreAltText": "Learn More about {{topic}}",
@@ -45,17 +45,17 @@
 		},
 		"cookies": {
 			"banner": {
-				"acceptAll": "Accept all Cookies",
-				"manageCookies": "Manage Cookies",
-				"message": "We use cookies to collect information about how you use our website to ensure we give you the best experience possible."
+				"acceptAll": "Accetta tutti i Cookies",
+				"manageCookies": "Gestisci Cookies",
+				"message": "Utilizziamo i cookie per raccogliere informazioni su come utilizzi il nostro sito Web per assicurarti la migliore esperienza possibile."
 			},
-			"title": "Cookie Preferences",
-			"subHeading": "We use cookies to collect information about how you use our website to ensure we give you the best experience possible. You can manage your cookies in the table below.",
+			"title": "Preferenze Cookie ",
+			"subHeading": "Utilizziamo i cookie per raccogliere informazioni su come utilizzi il nostro sito Web per assicurarti la migliore esperienza possibile. Puoi gestire i tuoi cookie nella tabella sottostante.",
 			"headers": {
 				"cookie": "Cookie",
-				"name": "Name",
-				"purpose": "Purpose",
-				"toggle": "Enabled"
+				"name": "Nome",
+				"purpose": "Scopo",
+				"toggle": "Abilitato"
 			},
 			"body": {
 				"ga": "Google Analytics (Optional)",
@@ -68,20 +68,20 @@
 			}
 		},
 		"changeMyRisks": {
-			"title": "Keep Your Breasts Healthy",
-			"strapline": "There are many different things that affect a woman’s risk of developing breast cancer.",
+			"title": "Mantieni sano il tuo seno",
+			"strapline": "Molti fattori diversi influiscono sul rischio di sviluppare il cancro al seno.",
 			"canChange": {
-				"title": "Things you can change",
-				"body": "Although there are risk factors for breast cancer which you cannot change, you can reduce your risk of breast cancer by paying attention to your lifestyle. \n\nResearchers estimate that 19% of breast cancer in the UK can be attributed to physical inactivity, being overweight and drinking alcohol. \n\nTo reduce your risk of breast cancer \n<0>{{list}}</0>",
+				"title": "Cose che puoi cambiare",
+				"body": "Sebbene vi siano fattori di rischio per il cancro al seno che non puoi modificare, puoi ridurlo prestando attenzione al tuo stile di vita. \n\n Per ridurre il rischio di cancro al seno: \n<0>{{list}}</0>",
 				"list": [
-					"Women who are overweight or obese after the menopause have a higher risk of breast cancer than women who are a healthy weight. Younger women who gain weight during their adult life are also at an increased risk. You can reduce your personal risk of breast cancer by maintaining a healthy weight.",
-					"Doing regular physical activity helps to maintain a healthy weight but also helps to reduce breast cancer risk in other ways.",
-					"Alcohol alone is thought to be responsible for 7% of breast cancers in the UK and may in fact be one of the easiest factors to change."
+					"Le donne obese o in sovrappeso dopo la menopausa presentano un rischio maggiore di cancro al seno rispetto alle donne con un peso sano. Anche le donne più giovani che aumentano di peso durante la vita adulta sono a maggior rischio. Si può ridurre il rischio personale di cancro al seno mantenendo un peso sano.",
+					"Fare attività fisica regolare aiuta a mantenere un peso sano ma aiuta anche a ridurre il rischio di cancro al seno in altri modi.",
+					"Si pensa che l'alcol da solo sia responsabile del 5-11% dei tumori al seno in Italia e in effetti potrebbe essere uno dei fattori più facili da modificare."
 				],
 				"listHeaders": [
-					"Be a healthy weight",
-					"Be physically active",
-					"Limit how much alcohol you drink"
+					"Mantieni un peso sano",
+					"Fai attività fisica",
+					"Limita la quantità di alcol che bevi"
 				],
 				"ctas": [
 					"Breast cancer risk and body weight",
@@ -91,41 +91,41 @@
 				"source": "Source: Cancer Research UK, Breast cancer risk factors, Accessed May 2018."
 			},
 			"cannotChange": {
-				"title": "Things you cannot change",
-				"body": "Some of these factors are difficult or not possible to change. These include: \n <0>{{list}}</0>",
+				"title": "Cose che non puoi cambiare",
+				"body": "Alcuni dei seguenti fattori non possono essere modificati o è difficile farlo: \n <0>{{list}}</0>",
 				"list": [
-					"Women are much more likely to develop breast cancer than men.",
-					"Older women have a higher chance of developing breast cancer than younger women. The NHS invites women aged 47 to 73 years to attend breast screening once every three years. Those above the age of 73 years can self-refer to the program through their GP.",
-					"Some women (around 15% of all women who develop breast cancer) have a strong family history of breast cancer and approximately 5% of women with breast cancer have inherited a change in a particular gene that means that they have a high risk of developing this disease. You can read more about this on Breast Cancer Now's website. If you think you may have a strong family history of breast cancer, or believe you are at increased risk, then please do talk to your GP about your concern."
+					"Le donne hanno molte più probabilità di sviluppare il cancro al seno rispetto agli uomini.",
+					"Le donne anziane hanno una maggiore probabilità di sviluppare il cancro al seno rispetto alle donne più giovani. Il Ministero della salute invita le donne di età compresa tra 50 e 69 anni a partecipare allo screening del seno una volta ogni due anni. In alcune Regioni italiane si sta sperimentando l’efficacia di programmi di screening che coinvolgano una fascia di età più ampia, in particolare le donne tra i 45 e i 49 anni sono invitate a sottoporsi alla mammografia ogni anno, e quelle fino ai 74 anni con cadenza biennale.",
+					"Alcune donne (circa il 15% di tutte le donne che sviluppano il cancro al seno) hanno una storia familiare di cancro al seno e circa il 5% delle donne con cancro al seno ha ereditato un cambiamento in un particolare gene, il che significa un elevato rischio di sviluppare la malattia. Se pensi di avere una storia familiare di cancro al seno, o ritieni di essere a maggior rischio, ti suggeriamo di parlarne con il tuo medico di famiglia."
 				],
 				"listHeaders": [
-					"Being Female",
-					"Age",
-					"Family History & Genes"
+					"Essere donna",
+					"Età",
+					"Storia familiare e geni"
 				],
-				"otherFactors": "Other factors \n<0>{{list}}</0>",
+				"otherFactors": "Altri fattori \n<0>{{list}}</0>",
 				"otherFactorsListHeaders": [
-					"Life Events",
-					"Hormone Therapies"
+					"Eventi della vita",
+					"Terapie ormonali"
 				],
 				"otherFactorsList": [
-					"Starting your periods at an older age, having children, and breastfeeding are all linked to a lower risk of developing breast cancer later in life.",
-					"Taking hormone replacement therapy (HRT) or the contraceptive pill can also affect your risk of developing breast cancer. If this is something you are worried about we recommend that you discuss this with your GP."
+					"L'inizio delle mestruazioni in età avanzata, l'avere avuto figli e l'allattamento al seno sono tutti fattori collegati a un minor rischio di sviluppare il cancro al seno più avanti nella vita.",
+					"Anche l'assunzione della terapia ormonale sostitutiva (TOS) o della pillola contraccettiva può influire sul rischio di sviluppare il cancro al seno. Se la cosa ti riguarda e sei preoccupata ti suggeriamo di discuterne con il tuo medico di famiglia."
 				]
 			},
-			"source": "Source: Cancer Research UK, Breast cancer risk factors, Accessed May 2018."
+			"source": "Sorgente: Cancer Research UK, Breast cancer risk factors, Accessed May 2018."
 		},
 		"diet": {
-			"title": "Eat Well",
-			"body": "Eating well is a good way of maintaining a healthy weight, which keeps your risks of breast and bowel cancer, heart and cardiovascular disease low. The Government recommends that you try to: <0>{{list}}</0>",
+			"title": "Mangiare bene",
+			"body": "Mangiare bene è un buon modo per mantenere un peso sano, che mantiene bassi i rischi di cancro al seno e all'intestino e di malattie cardiache e cardiovascolari. Il SSN raccomanda di provare a: <0>{{list}}</0>",
 			"list": [
-				"Eat at least 5 portions of a variety of fruit and vegetables every day",
-				"Base meals on potatoes, bread, rice, pasta and other starchy carbohydrates; choosing wholegrain versions where possible",
-				"Have some dairy or dairy alternatives; choosing lower fat and lower sugar options",
-				"Eat some beans, pulses, fish, eggs, meat and other proteins (including 2 portions of fish every week, one of which should be oily)",
-				"Choose unsaturated oils and spreads and eat in small amounts",
-				"Drink 6 to 8 cups/glasses of fluid a day",
-				"If consuming foods and drinks high in fat, salt or sugar have these less often and in small amounts."
+				"Mangiare almeno 5 porzioni di frutta e verdura ogni giorno",
+				"Consumare pasti a base di patate, pane, riso, pasta e altri carboidrati amidacei, scegliendo le versioni integrali ove possibile",
+				"Avere alcune alternative al latte o ai latticini, scegliendo opzioni a basso contenuto di grassi e zuccheri",
+				"Mangiare fagioli, legumi, pesce, uova, carne e altre proteine (incluse 2 porzioni di pesce ogni settimana)",
+				"Scegliere oli insaturi",
+				"Bere da 6 a 8 tazze/bicchieri di liquidi al giorno",
+				"Se si consumano cibi e bevande ricchi di grassi, sale o zucchero, consumarli meno spesso e in piccole quantità."
 			]
 		},
 		"drinks": {
@@ -205,161 +205,161 @@
 			}
 		},
 		"footer": {
-			"accessibility": "Accessibility Statement",
-			"privacy": "Privacy Policy"
+			"accessibility": "Dichiarazione di accessibilità",
+			"privacy": "Politica sulla riservatezza"
 		},
 		"header": {
 			"logoAlt": "Abreast Of Health"
 		},
 		"homeTiles": {
 			"improveBreastHealth": {
-				"title": "Improve Your Breast Health",
-				"subHeading": "Learn about the myths and how you can increase your likelihood of having the best breast health."
+				"title": "Migliora la salute del tuo seno",
+				"subHeading": "Scopri i falsi miti e come puoi migliorare la salute del tuo seno."
 			},
 			"factors": {
-				"title": "Factors That Impact Your Breast Health",
-				"alcohol": "Alcohol related factors.",
-				"other": "Other related factors."
+				"title": "FATTORI CHE INFLUISCONO SULLA SALUTE DEL TUO SENO",
+				"alcohol": "Fattori legati all’alcol.",
+				"other": "Altri fattori correlati."
 			},
 			"changeMyRisks": {
-				"title": "Keep Your Breasts Healthy",
-				"strapline": "Best practices to maintain healthy breasts."
+				"title": "Mantieni sano il tuo seno",
+				"strapline": "Le pratiche migliori per mantenere un seno sano."
 			},
 			"alcoholRisks": {
-				"title": "Risks",
-				"strapline": "Research shows that regularly drinking alcohol decreases your breast health."
+				"title": "Rischi",
+				"strapline": "La ricerca mostra che il consumo regolare di alcol riduce la salute del tuo seno."
 			},
 			"whatsInMyDrink": {
-				"title": "What’s in Your Drink?",
-				"strapline": "Learn about the units within your drink and what they equate to in calories."
+				"title": "Cosa c’è nel tuo drink?",
+				"strapline": "Scopri le unità alcoliche nel tuo drink e a cosa equivalgono in calorie."
 			},
 			"topTips": {
-				"title": "Top Tips",
-				"strapline": "There are many benefits of reducing your alcohol intake."
+				"title": "Suggerimenti",
+				"strapline": "Ridurre il consumo di alcol comporta molti vantaggi."
 			},
 			"weight": {
-				"title": "Weight"
+				"title": "Peso"
 			},
 			"stayingActive": {
-				"title": "Physical Activity"
+				"title": "Attività Fisica"
 			},
 			"diet": {
-				"title": "A healthy diet",
+				"title": "Mangiare bene",
 				"strapline": "What you eat is important for your weight and future health."
 			},
 			"myths": {
-				"title": "Breast Health Myths",
-				"strapline": "There are many myths and misconceptions about breast health."
+				"title": "Falsi miti sulla salute del seno",
+				"strapline": "Ci sono molti falsi miti e idee sbagliate sulla salute del seno."
 			},
 			"wellbeing": {
-				"title": "Wellbeing"
+				"title": "Benessere"
 			},
 			"smoking": {
-				"title": "Smoking"
+				"title": "Fumo"
 			}
 		},
 		"howIsThisPage": {
-			"title": "How is this page?",
-			"good": "Good",
-			"indifferent": "Indifferent",
-			"bad": "Bad",
-			"thanks": "Thanks for your feedback."
+			"title": "Com'è questa pagina?",
+			"good": "Ottima",
+			"indifferent": "Indifferente",
+			"bad": "Pessima",
+			"thanks": "Grazie per il tuo feedback."
 		},
 		"intro": {
-			"title": "How can you be more healthy?",
-			"body": "This app is designed to give you information about health risks and easy ways to stay in good health. This includes:",
+			"title": "Come posso migliorare la salute del mio seno?",
+			"body": "Questa app è stata progettata per fornirti informazioni sui rischi per la salute e su alcuni modi semplici per rimanere in buona salute. In particolare, riguarda:",
 			"list": {
-				"one": "Alcohol and smoking habits",
-				"two": "Body weight",
-				"three": "Physical Exercise"
+				"one": "Alcol e fumo",
+				"two": "Peso corporeo",
+				"three": "Esercizio fisico"
 			},
-			"subtext": "It only takes 5 minutes and is completely anonymous"
+			"subtext": "Ci vogliono solo 5 minuti ed è completamente anonimo" 
 		},
 		"myths": {
-			"title": "Breast Cancer Myths",
-			"myth": "myth",
-			"risk": "risk",
-			"body": "There are many myths and misconceptions about what can raise your risk of developing cancer. Try the quiz below to see whether you know what’s fact and what’s fiction for your breast health. \n\nSelect which factors you think are a risk factor for developing breast cancer.",
+			"title": "Falsi miti sulla salute del seno",
+			"myth": "miti",
+			"risk": "rischi",
+			"body": "Ci sono molti falsi miti e idee sbagliate sulla salute del seno. Prova il quiz qui sotto per vedere se sai cosa è vero e cosa è finzione per la salute del tuo seno. \n\nSeleziona quali fattori ritieni siano un fattore di rischio per lo sviluppo del cancro al seno.",
 			"deodorant": {
-				"category": "Deodorant",
-				"title": "Does deodorant increase breast cancer risks?",
-				"false": "Well done! There is no good evidence to suggest that deodorants affect your risk of developing breast cancer. Women are advised to avoid using a deodorant, antiperspirant or talc containing aluminium when they go for a mammogram only because the aluminium might show up on the x-ray image and give an inaccurate reading.",
-				"true": "Actually, it isn’t a risk! There is no good evidence to suggest that deodorants affect your risk of developing breast cancer. Women are advised to avoid using a deodorant, antiperspirant or talc containing aluminium when they go for a mammogram only because the aluminium might show up on the x-ray image and give an inaccurate reading"
+				"category": "Deodorante",
+				"title": "Il deodorante aumenta i rischi di cancro al seno?",
+				"false": "Molto bene! Non ci sono evidenze che suggeriscano che i deodoranti influenzino il rischio di sviluppare il cancro al seno. Tuttavia, si consiglia alle donne di evitare l'uso di deodoranti, antitraspiranti o talco contenenti alluminio quando si sottopongono a mammografia solo perché l'alluminio potrebbe apparire sull'immagine a raggi X e determinare una lettura imprecisa.",
+				"true": "In realtà, non è un rischio! Non ci sono evidenze che suggeriscano che i deodoranti influenzino il rischio di sviluppare il cancro al seno. Tuttavia, si consiglia alle donne di evitare l'uso di deodoranti, antitraspiranti o talco contenenti alluminio quando si sottopongono a una mammografia solo perché l'alluminio potrebbe apparire sull'immagine a raggi X e determinare una lettura imprecisa."
 			},
 			"obesity": {
-				"category": "Obesity",
-				"title": "Does obesity increase breast cancer risks?",
-				"false": "Actually, it is a risk! Putting on weight in adulthood (after the age of 18) increases your risk of developing breast cancer after the menopause. Being overweight or obese after the menopause increases your risk of breast cancer.",
-				"true": "Correct answer! Putting on weight in adulthood (after the age of 18) increases your risk of developing breast cancer after the menopause. Being overweight or obese after the menopause increases your risk of breast cancer."
+				"category": "Obesità",
+				"title": "L’obesità aumenta il rischio di cancro al seno?",
+				"false": "In realtà, è un rischio! Aumentare di peso in età adulta (dopo i 18 anni) aumenta il rischio di sviluppare il cancro al seno dopo la menopausa. Essere obese o in sovrappeso dopo la menopausa aumenta il rischio di cancro al seno.",
+				"true": "Risposta corretta! Aumentare di peso in età adulta (dopo i 18 anni) aumenta il rischio di sviluppare il cancro al seno dopo la menopausa. Essere obese o in sovrappeso dopo la menopausa aumenta il rischio di cancro al seno."
 			},
 			"hrt": {
-				"category": "HRT",
-				"title": "Does HRT increase breast cancer risks?",
-				"false": "Actually, it is a risk! Using HRT to treat menopausal symptoms can slightly increase your risk of breast cancer during the years you take it. The longer you use HRT, the greater your risk. But once you stop taking HRT, this risk will begin to fall. Within a year or two, it will be about the same as if you had never taken it.",
-				"true": "Correct answer! Using HRT to treat menopausal symptoms can slightly increase your risk of breast cancer during the years you take it. The longer you use HRT, the greater your risk. But once you stop taking HRT, this risk will begin to fall. Within a year or two, it will be about the same as if you had never taken it."
+				"category": "TOS",
+				"title": "La TOS (terapia sostitutiva ormonale) aumenta i rischi di cancro al seno?",
+				"false": "In realtà, è un rischio! La TOS per trattare i sintomi della menopausa può aumentare leggermente il rischio di cancro al seno durante gli anni in cui la assumi. Più a lungo si utilizza la TOS, maggiore è il rischio. Ma una volta interrotta, questo rischio inizierà a diminuire. Entro un anno o due sarà più o meno come se non l'avessi mai assunta.",
+				"true": "Risposta corretta! La TOS per trattare i sintomi della menopausa può aumentare leggermente il rischio di cancro al seno durante gli anni in cui la assumi. Più a lungo si utilizza la TOS, maggiore è il rischio. Ma una volta interrotta, questo rischio inizierà a diminuire. Entro un anno o due sarà più o meno come se non l'avessi mai assunta."
 			},
 			"underwireBra": {
-				"category": "Underwired Bras",
-				"title": "Do underwired bras increase breast cancer risks?",
-				"false": "Correct answer! Wearing underwired bras does not affect your risk of developing breast cancer. Some studies have suggested underwired bras restrict movement of lymph fluid, however, there is no evidence to suggest this is the case, or that wearing any kind of bra affects your breast cancer risk. In fact, a good-fitting bra provides support. Women should be properly measured for their bras, which should be tried on to ensure a good fit. Bras that do not fit properly can cause discomfort and breast or back pain.",
-				"true": "Actually, it isn’t a risk! Wearing underwired bras does not affect your risk of developing breast cancer. Some studies have suggested underwired bras restrict movement of lymph fluid, however, there is no evidence to suggest this is the case, or that wearing any kind of bra affects your breast cancer risk. In fact, a good-fitting bra provides support. Women should be properly measured for their bras, which should be tried on to ensure a good fit. Bras that do not fit properly can cause discomfort and breast or back pain."
+				"category": "Reggiseni con ferretto",
+				"title": "I reggiseni con ferretto aumentano il rischio di cancro al seno?",
+				"false": "Risposta corretta! Indossare reggiseni con ferretto non influisce sul rischio di sviluppare il cancro al seno. Alcuni studi hanno suggerito che i reggiseni con ferretto limitano il movimento del fluido linfatico, tuttavia, non ci sono prove che suggeriscano che sia così, o che indossare qualsiasi tipo di reggiseno influisca sul rischio di cancro al seno. In effetti, un reggiseno aderente fornisce supporto. Il reggiseno dovrebbe essere della misura giusta per garantire una buona vestibilità. I reggiseni che non si adattano correttamente possono causare disagio e dolore al seno o alla schiena.",
+				"true": "In realtà, non è un rischio! Indossare reggiseni con ferretto non influisce sul rischio di sviluppare il cancro al seno. Alcuni studi hanno suggerito che i reggiseni con ferretto limitano il movimento del fluido linfatico, tuttavia, non ci sono prove che suggeriscano che sia così, o che indossare qualsiasi tipo di reggiseno influisca sul rischio di cancro al seno. In effetti, un reggiseno aderente fornisce supporto. Il reggiseno dovrebbe essere della misura giusta per garantire una buona vestibilità. I reggiseni che non si adattano correttamente possono causare disagio e dolore al seno o alla schiena."
 			},
 			"alcohol": {
-				"category": "Alcohol",
-				"title": "Does alcohol increase breast cancer risks?",
-				"false": "Actually, it is a risk! Research shows that regularly drinking alcohol is associated with a higher risk of developing breast cancer. Your risk of breast cancer will depend on how much alcohol you tend to drink. The more alcohol you drink regularly, the more likely you are to develop breast cancer at some point in your life. Even drinking just one drink a day can increase your risk.",
-				"true": "Correct answer! Research shows that regularly drinking alcohol is associated with a higher risk of developing breast cancer. Your risk of breast cancer will depend on how much alcohol you tend to drink. The more alcohol you drink regularly, the more likely you are to develop breast cancer at some point in your life. Even drinking just one drink a day can increase your risk."
+				"category": "Alcol",
+				"title": "L’alcol aumenta i rischi di cancro al seno?",
+				"false": "In realtà, è un rischio! La ricerca mostra che il consumo regolare di alcol è associato a un rischio più elevato di sviluppare il cancro al seno. Il rischio di cancro al seno dipenderà dalla quantità di alcol che si tende a bere.  Maggiore è il consumo regolare di alcol, maggiore sarà la probabilità di sviluppare il cancro al seno a un certo punto della vita. Anche un solo drink al giorno può aumentare il rischio.",
+				"true": "Risposta corretta! La ricerca mostra che il consumo regolare di alcol è associato a un rischio più elevato di sviluppare il cancro al seno. Il rischio di cancro al seno dipenderà dalla quantità di alcol che si tende a bere.  Maggiore è il consumo regolare di alcol, maggiore sarà la  probabilità di sviluppare il cancro al seno a un certo punto della vita. Anche un solo drink al giorno può aumentare il rischio."
 			}
 		},
 		"offline": {
 			"title": "Offline",
-			"subtitle": "You have lost internet connection. You may experience some issues using the site while offline, so please re-connect to continue."
+			"subtitle": "Hai perso la connessione a Internet. Potresti riscontrare alcuni problemi nell'utilizzo del sito offline, quindi riconnettiti per continuare."
 		},
 		"onboarding": {
-			"title": "How can I improve my \nbreast health?",
-			"body": "This app is designed to give you information about health risks and easy ways to stay in good health. This includes: \n\n <0>{{list}}</0>",
+			"title": "Come posso migliorare \nla salute del mio seno?",
+			"body": "Questa app è stata progettata per fornirti informazioni sui rischi per la salute e su alcuni modi semplici per rimanere in buona salute. In particolare, riguarda: \n\n <0>{{list}}</0>",
 			"list": [
-				"Alcohol and smoking habits",
-				"Body weight",
-				"Physical exercise"
+				"Alcol e fumo",
+				"Peso corporeo",
+				"Esercizio fisico"
 			],
 			"infoCard": {
-				"time": "Around 1 minute",
-				"questions": "6 Questions",
-				"data": "Anonymous Data"
+				"time": "Circa 1 minuto",
+				"questions": "6 Domande",
+				"data": "Dati Anonimi"
 			}
 		},
 		"progressBar": "{{current}} / {{max}} - {{category}}",
 		"progressBarAltText": "Section {{current}} out of {{max}}, this section is about {{category}}.",
 		"questionnaire": {
-			"showResult": "Show Result",
+			"showResult": "Mostra Risultati",
 			"unitsKey": "Units Key",
 			"one": {
-				"title": "How often do you have a drink containing alcohol?",
-				"category": "Alcohol",
+				"title": "Con quale frequenza consumi bevande alcoliche?",
+				"category": "Alcol",
 				"questions": {
 					"question-one-1": {
-						"label": "Never"
+						"label": "Mai"
 					},
 					"question-one-2": {
-						"label": "Monthly",
-						"sublabel": "or Less"
+						"label": "1 volta al mese",
+						"sublabel": "o meno di 1 volta al mese"
 					},
 					"question-one-3": {
 						"label": "2 - 4",
-						"sublabel": "Times a Month"
+						"sublabel": "Volte al Mese"
 					},
 					"question-one-4": {
 						"label": "2 - 3",
-						"sublabel": "Times a Week"
+						"sublabel": "Volte alla Settimana"
 					},
 					"question-one-5": {
 						"label": "4 - 5",
-						"sublabel": "Times a Week"
+						"sublabel": "Volte alla Settimana"
 					},
 					"question-one-6": {
 						"label": "6+",
-						"sublabel": "Times a Week"
+						"sublabel": "Volte alla Settimana"
 					}
 				}
 			},
