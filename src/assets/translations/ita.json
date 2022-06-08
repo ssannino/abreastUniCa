@@ -1,18 +1,18 @@
 {
 	"translation": {
 		"alcoholRisks": {
-			"title": "Risks",
-			"strapline": "Research shows that regularly drinking alcohol is associated with a higher risk of developing breast cancer. <0>{{list}}</0>",
+			"title": "Rischi",
+			"strapline": "La ricerca mostra che il consumo regolare di alcol è associato a un rischio più elevato di sviluppare il cancro al seno. <0>{{list}}</0>",
 			"list": [
-				"Your risk of breast cancer will depend on how much alcohol you tend to drink.",
-				"The more alcohol you regularly drink, the more likely you are to develop breast cancer at some point in your life.",
-				"Even drinking just two units of alcohol a day can increase risk."
+				"Il tuo rischio di cancro al seno dipenderà dalla quantità di alcol che tendi a bere.",
+				"Più alcol bevi regolarmente, più probabilità avrai di sviluppare il cancro al seno a un certo punto della tua vita.",
+				"Anche  assumere solo 1 unità di alcol al giorno può aumentare il rischio."
 			],
-			"body": "Breast cancer increases with the number of units of alcohol drunk per day <0>{{list}}</0>",
+			"body": "Il cancro al seno aumenta con il numero di unità di alcol consumate quotidianamente <0>{{list}}</0>",
 			"statisticsList": [
-				"Out of 100 women who do not drink, 11 will probably develop breast cancer in their lifetime.",
-				"Out of 100 women who drink 2 units of alcohol a day (for example, a standard glass of wine), about 14 will develop breast cancer in their lifetime.",
-				"In other words, drinking 2 units of alcohol a day results in 3 extra women out of 100 developing breast cancer."
+				"Su 100 donne che non bevono, 11 probabilmente svilupperanno il cancro al seno nel corso della vita.",
+				"Su 100 donne che assumono 1 unità di alcol al giorno (ad esempio, due bicchieri di vino), circa 14 svilupperanno il cancro al seno nel corso della vita.",
+				"In altre parole, l’assunzione di 1 unità di alcol al giorno fa aumentare di 3 su 100 il numero delle donne che rischiano di sviluppare il cancro al seno."
 			],
 			"ctas": [
 				"See how your drink measures up",
@@ -25,22 +25,22 @@
 			"add": "Add one {{measurement}}",
 			"appName": "Abreast of health",
 			"appDescription": "Come posso migliorare la salute del mio seno?",
-			"cancel": "Cancel",
-			"close": "Close",
-			"endSession": "End Session",
-			"false": "False",
+			"cancel": "Cancella",
+			"close": "Chiudi",
+			"endSession": "Fine Sessione",
+			"false": "Falso",
 			"next": "Avanti",
-			"myData": "My Data",
-			"learnMore": "Learn More",
-			"learnMoreAltText": "Learn More about {{topic}}",
-			"select": "Select...",
-			"previous": "Previous",
-			"findOutNow": "Find out now",
-			"reset": "Reset",
-			"results": "My Results",
-			"risks": "Risks",
-			"subtract": "Subtract one {{measurement}}",
-			"true": "True",
+			"myData": "I miei Dati",
+			"learnMore": "Scopri di più",
+			"learnMoreAltText": "Per saperne di più su {{topic}}",
+			"select": "Seleziona...",
+			"previous": "Precedente",
+			"findOutNow": "Scoprilo ora",
+			"reset": "Resetta",
+			"results": "I miei Risultati",
+			"risks": "Rischi",
+			"subtract": "Sottrai uno {{measurement}}",
+			"true": "Vero",
 			"home": "Home"
 		},
 		"cookies": {
@@ -59,12 +59,12 @@
 			},
 			"body": {
 				"ga": "Google Analytics (Optional)",
-				"gaPurpose": "These cookies are used to collect information about how visitors use our website. We use the information to compile reports and to help us improve the website. The cookies collect information in a way that does not directly identify anyone, including the number of visitors to the website, where visitors have come to the website from and the pages they visited.",
-				"gaPurposeToggle": "Toggle the Google analytics cookie setting",
-				"optIn": "Cookie Opt in (Strictly necessary)",
-				"optInPurpose": "We use this cookie to remember your preference to accept or reject the Google Analytics cookies.",
-				"seen": "Seen cookie page (Strictly necessary)",
-				"seenPurpose": "We use this cookie to remember you have visited the cookie preferences page and hide the cookie banner pop up on subsequent visits to this website."
+				"gaPurpose": "Questi cookie vengono utilizzati per raccogliere informazioni su come i visitatori utilizzano il nostro sito web. Utilizziamo le informazioni per compilare report e per aiutarci a migliorare il sito web. I cookie raccolgono informazioni in modo da non identificare direttamente nessuno, incluso il numero di visitatori del sito web, da dove i visitatori sono giunti al sito e le pagine che hanno visitato.",
+				"gaPurposeToggle": "Attiva/disattiva l'impostazione dei cookie di Google Analytics",
+				"optIn": "Cookie Opt in (Strettamente necessario)",
+				"optInPurpose": "Utilizziamo questo cookie per ricordare la tua preferenza per accettare o rifiutare i cookie di Google Analytics.",
+				"seen": "Pagina dei cookie vista (Strettamente necessario)",
+				"seenPurpose": "Utilizziamo questo cookie per ricordare che hai visitato la pagina delle preferenze sui cookie e nascondere il banner dei cookie visualizzato nelle visite successive a questo sito web."
 			}
 		},
 		"changeMyRisks": {
@@ -130,57 +130,57 @@
 		},
 		"drinks": {
 			"common": {
-				"alcoholContent": "Alcohol content: {{unit}} units",
+				"alcoholContent": "Contenuto Alcolico : {{unit}} unità",
 				"ABV": "(ABV {{percentage}}%",
-				"drinkInfo": "{{count}} unit - {{abv}}%",
-				"drinkInfo_plural": "{{count}} units - {{abv}}%",
-				"half": "Half",
-				"equivalentTo": "Equivalent to: {{number}} heaped teaspoons of sugar",
-				"calories": "Calories: {{calories}} kcal (Cal)",
+				"drinkInfo": "{{count}} unità - {{abv}}%",
+				"drinkInfo_plural": "{{count}} unità - {{abv}}%",
+				"half": "Metà",
+				"equivalentTo": "Equivalente alimentare: {{number}} cucchiaini",
+				"calories": "Calorie: {{calories}} kcal (Cal)",
 				"container": {
-					"bottle": "Bottle",
-					"pint": "Pint",
-					"smallCan": "Small can",
-					"largeCan": "Large can",
-					"smallGlass": "Small glass",
-					"standardGlass": "Standard glass",
-					"largeGlass": "Large glass",
-					"glass": "Glass"
+					"bottle": "Bottiglia",
+					"pint": "Pinta",
+					"smallCan": "Lattina Piccola",
+					"largeCan": "Lattina Grande",
+					"smallGlass": "Bicchiere Piccolo",
+					"standardGlass": "bicchiere Standard",
+					"largeGlass": "Bicchiere Grande",
+					"glass": "Bicchiere"
 				}
 			},
-			"tag": "{{name}}, {{unit}} units - {{abv}}%",
+			"tag": "{{name}}, {{unit}} unità - {{abv}}%",
 			"lowStrengthPint": {
-				"name": "Lower strength beer/cider (pint)"
+				"name": "Birra/sidro a bassa gradazione (pint)"
 			},
 			"higherStrengthPint": {
-				"name": "Higher strength beer/cider (pint)"
+				"name": "Birra/sidro ad alta gradazione (pint)"
 			},
 			"lowStrengthCan": {
-				"name": "Lower strength beer/cider (500ml)"
+				"name": "Birra/sidro a bassa gradazione (500ml)"
 			},
 			"higherStrengthCan": {
-				"name": "Higher strength beer/cider (500ml)"
+				"name": "Birra/sidro ad alta gradazione (500ml)"
 			},
 			"higherStrengthLagerSmallCan": {
-				"name": "Higher strength lager"
+				"name": "Birra chiara ad alta gradazione"
 			},
 			"higherStrengthLagerLargeCan": {
-				"name": "Higher strength lager"
+				"name": "Birra chiara ad alta gradazione"
 			},
 			"higherStrengthLagerBottle": {
-				"name": "Higher strength lager"
+				"name": "Birra chiara ad alta gradazione"
 			},
 			"smallWine": {
-				"name": "Wine (125ml)"
+				"name": "Vino (125ml)"
 			},
 			"regularWine": {
-				"name": "Wine (175ml)"
+				"name": "Vino (175ml)"
 			},
 			"largeWine": {
-				"name": "Wine (250ml)"
+				"name": "Vino (250ml)"
 			},
 			"bottleWine": {
-				"name": "Wine (bottle)"
+				"name": "Vino (bottiglia)"
 			},
 			"champagne": {
 				"name": "Champagne (175ml)"
@@ -330,10 +330,10 @@
 			}
 		},
 		"progressBar": "{{current}} / {{max}} - {{category}}",
-		"progressBarAltText": "Section {{current}} out of {{max}}, this section is about {{category}}.",
+		"progressBarAltText": "Sezione {{current}} su {{max}}, questa sezione riguarda {{category}}.",
 		"questionnaire": {
 			"showResult": "Mostra Risultati",
-			"unitsKey": "Units Key",
+			"unitsKey": "Unità Alcolica",
 			"one": {
 				"title": "Con quale frequenza consumi bevande alcoliche?",
 				"category": "Alcol",
@@ -364,189 +364,189 @@
 				}
 			},
 			"two": {
-				"title": "How many units of alcohol do you drink on a typical day when you are drinking?",
-				"category": "Alcohol",
+				"title": "Nei giorni in cui bevi, quante bevande alcoliche consumi in media?",
+				"category": "Alcol",
 				"questions": {
 					"question-two-1": {
 						"label": "1 - 2",
-						"sublabel": "Units"
+						"sublabel": "bevande"
 					},
 					"question-two-2": {
 						"label": "3 - 4",
-						"sublabel": "Units"
+						"sublabel": "bevande"
 					},
 					"question-two-3": {
 						"label": "5 - 6",
-						"sublabel": "Units"
+						"sublabel": "bevande"
 					},
 					"question-two-4": {
 						"label": "7 - 9",
-						"sublabel": "Units"
+						"sublabel": "bevande"
 					},
 					"question-two-5": {
 						"label": "10 - 15",
-						"sublabel": "Units"
+						"sublabel": "bevande"
 					},
 					"question-two-6": {
 						"label": "16+",
-						"sublabel": "Units"
+						"sublabel": "bevande"
 					}
 				}
 			},
 			"three": {
-				"title": "How often do you have six or more units of alcohol on one occasion?",
-				"category": "Alcohol",
+				"title": "Con quale frequenza ti è capitato di bere 6 o più bevande alcoliche in un’unica occasione nell’ultimo anno?",
+				"category": "Alcol",
 				"questions": {
 					"question-three-1": {
-						"label": "Never"
+						"label": "Mai"
 					},
 					"question-three-2": {
-						"label": "Less than monthly"
+						"label": "Meno di 1 volta al mese"
 					},
 					"question-three-3": {
-						"label": "Monthly"
+						"label": "1 volta al mese"
 					},
 					"question-three-4": {
-						"label": "Weekly"
+						"label": "1 volta alla settimana"
 					},
 					"question-three-5": {
-						"label": "Daily or almost daily"
+						"label": "Ogni giorno o quasi"
 					}
 				}
 			},
 			"four": {
-				"title": "Do you smoke cigarettes at all nowadays?",
-				"category": "Smoking",
+				"title": "Attualmente fumi?",
+				"category": "Fumo",
 				"questions": {
 					"question-four-1": {
-						"label": "Yes"
+						"label": "Si"
 					},
 					"question-four-2": {
-						"label": "Sometimes"
+						"label": "Qualche volta"
 					},
 					"question-four-3": {
 						"label": "No"
 					}
 				},
 				"questionOptions": [
-					"Yes",
+					"Si",
 					"No"
 				]
 			},
 			"five": {
-				"title": "How tall are you without shoes?",
-				"category": "Height",
+				"title": "Quanto sei alta senza scarpe?",
+				"category": "Altezza",
 				"questions": {
 					"question-five-1": {
 						"label": {
-							"ft": "Feet",
-							"inch": "Inches",
-							"cm": "Centimetres"
+							"ft": "Piedi",
+							"inch": "Pollici",
+							"cm": "Centimetri"
 						},
 						"tab": {
 							"one": "ft / in",
 							"two": "cm"
 						},
 						"tabAltText": {
-							"one": "Enter your height using feet and inches",
-							"two": "Enter your height using centimetres"
+							"one": "Inserisci la tua altezza in Piedi e Pollici",
+							"two": "Inserisci la tua altezza in Centimetri"
 						}
 					}
 				}
 			},
 			"six": {
-				"title": "How much do you weigh without clothes and shoes?",
-				"category": "Weight",
+				"title": "Quanto pesi senza vestiti e senza scarpe?",
+				"category": "Peso",
 				"questions": {
 					"question-six-1": {
 						"label": {
 							"st": "Stone",
-							"lbs": "Pounds",
-							"kg": "Kilograms"
+							"lbs": "Libbre",
+							"kg": "Kilogrammi"
 						},
 						"tab": {
 							"one": "st / lbs",
 							"two": "kg"
 						},
 						"tabAltText": {
-							"one": "Enter your weight using stone and pounds",
-							"two": "Enter your height using kilograms"
+							"one": "Inserisci il tuo peso in Stone e Libbre",
+							"two": "Inserisci il tuo peso in Kilogrammi"
 						}
 					}
 				}
 			},
 			"measurements": {
-				"ft": "Foot",
+				"ft": "Piedi",
 				"st": "Stone",
-				"lbs": "Pound",
-				"kg": "Kilogram",
-				"cm": "Centimetres",
-				"inch": "Inch"
+				"lbs": "Libbre",
+				"kg": "Kilogrammi",
+				"cm": "Centimetri",
+				"inch": "Pollici"
 			}
 		},
 		"questionnaireResults": {
-			"title": "Your Feedback",
+			"title": "I tuoi Risultati",
 			"alcoholIntake": {
-				"title": "Your Alcohol Intake",
-				"error": "Error in the drinkcat algorithm. Please mention this to research staff!",
+				"title": "Il tuo consumo di alcol",
+				"error": "Errore nell'algoritmo drinkcat. Si prega di comunicarlo al personale di ricerca!",
 				"intro": {
 					"drinkCategoryOne": {
-						"body": "Your answers suggest you are drinking at lower risk levels. \n\n Drinking little or no alcohol brings many health benefits, including keeping risks of breast cancer low."
+						"body": "Le tue risposte suggeriscono che stai bevendo a livelli di rischio più bassi. \n\n Bere poco o niente alcol porta molti benefici per la salute, tra cui mantenere bassi i rischi di cancro al seno."
 					},
 					"drinkCategoryTwo": {
-						"body": "Your answers suggest you are drinking at lower risk levels. \n\n Drinking little or no alcohol brings many health benefits, including keeping risks of breast cancer low."
+						"body": "Le tue risposte suggeriscono che stai bevendo a livelli di rischio più bassi. \n\n Bere poco o niente alcol porta molti benefici per la salute, tra cui mantenere bassi i rischi di cancro al seno."
 					},
 					"drinkCategoryZero": {
-						"title": "You said you drink little or no alcohol.",
-						"subHeading": "Drinking little or no alcohol brings many health benefits, including keeping risks of breast cancer low."
+						"title": "Hai detto che bevi poco o niente alcol.",
+						"subHeading": "Bere poco o niente alcol porta molti benefici per la salute, tra cui mantenere bassi i rischi di cancro al seno."
 					},
 					"drinkCategoryThree": {
-						"title": "You may be drinking close to 14 units of alcohol per week.",
-						"body": "You could reduce your chances of disease and improve your future health by making a few changes to your drinking."
+						"title": "Bevi quasi 7 bevande alcoliche a settimana.",
+						"body": "Apportando alcune modifiche al tuo consumo di alcol puoi ridurre il rischio di sviluppare una malattia e migliorare la tua salute futura."
 					},
 					"drinkCategoryFour": {
-						"body": "You drink {{averageWeekUnits}} units of alcohol per week, on average.\n\n You could reduce your chances of disease and improve your future health by making a few changes to your drinking. \n <0>{{list}}</0>",
+						"body": "Bevi, in media, {{averageWeekUnits}} bevande alcoliche a settimana.\n\n Apportando alcune modifiche al tuo consumo di alcol puoi ridurre il rischio di sviluppare una malattia e migliorare la tua salute futura. \n <0>{{list}}</0>",
 						"list": [
-							"Reducing your alcohol intake by as little as {{unit}} unit per week ({{number}} standard 175ml glasses of wine) would reduce your risks to lower levels.",
-							"Drinking less alcohol reduces your risk of developing conditions such as cancers, heart or liver disease."
+							"Riduci l’assunzione di alcol di appena {{unit}} bevande alla settimana per abbassare il rischio a livelli più bassi.",
+							"Bere meno riduce il rischio di sviluppare patologie come il cancro e malattie cardiache o epatiche."
 						],
 						"listMultiple": [
-							"Reducing your alcohol intake by as little as {{unit}} units per week ({{number}} standard 175ml glasses of wine) would reduce your risks to lower levels.",
-							"Drinking less alcohol reduces your risk of developing conditions such as cancers, heart or liver disease."
+							"Riduci l’assunzione di alcol di appena {{unit}} bevande alla settimana per abbassare il rischio a livelli più bassi.",
+							"Bere meno riduce il rischio di sviluppare patologie come il cancro e malattie cardiache o epatiche."
 						]
 					},
 					"drinksCategoryFive": {
-						"body": "You drink {{averageWeekUnits}} units of alcohol per week, on average.\n\n You could reduce your chances of disease and improve your future health by making a few changes to your drinking.\n <0>{{list}}</0>",
+						"body": "Bevi, in media,{{averageWeekUnits}} bevande alcoliche a settimana.\n\n YApportando alcune modifiche al tuo consumo di alcol puoi ridurre il rischio di sviluppare una malattia e migliorare la tua salute futura. \n <0>{{list}}</0>",
 						"list": [
-							"Reducing your alcohol intake will reduce your chances of having conditions such as cancers, heart or liver disease, or alcohol dependence.",
-							"The lower the amount of alcohol you drink, the lower your chances are to have these conditions."
+							"Riducendo l’assunzione di alcol diminuiranno le possibilità di contrarre patologie quali cancro, malattie cardiache o epatiche o dipendenza da alcol.",
+							"Minore è la quantità di alcol che bevi, minori saranno le probabilità di sviluppare queste patologie."
 						]
 					},
 					"drinkCategorySix": {
-						"body": "You drink {{averageWeekUnits}} units of alcohol per week, on average.\n\n Your answers suggest that although you rarely drink alcohol, you drink more than 5 units (for instance, half a bottle of wine) when you do. \n\nYou could significantly reduce your risk of harm on the days you drink by having no more than 5 units of alcohol.",
+						"body": "Bevi, in media, {{averageWeekUnits}} bevande alcoliche a settimana.\n\n Le tue risposte suggeriscono che, sebbene tu beva raramente, quando lo fai consumi più di 3 bevande alcoliche (o mezza bottiglia di vino) per volta. \n\n Se nei giorni in cui decidi di bere non superi le 3 bevande alcoliche per volta puoi ridurre significativamente il rischio di malattia.",
 						"list": [
-							"Reducing your alcohol intake will reduce your chances of having conditions such as cancers, heart or liver disease, or alcohol dependence.",
-							"The lower the amount of alcohol you drink, the lower your chances are to have these conditions."
+							"Riducendo l’assunzione di alcol diminuiranno le possibilità di contrarre patologie quali cancro, malattie cardiache o epatiche o dipendenza da alcol.",
+							"Minore è la quantità di alcol che bevi, minori saranno le probabilità di sviluppare queste patologie."
 						]
 					},
 					"drinkCategorySeven": {
-						"body": "You drink at lower risks levels: {{averageWeekUnits}} units of alcohol per week, on average"
+						"body": "Le tue risposte suggeriscono che stai bevendo a livelli di rischio più bassi: una media di {{averageWeekUnits}} bevande alcoliche a settimana"
 					},
 					"other": {
-						"title": "According to the data you just provided, you may be drinking {{number}} units of alcohol per week, on average."
+						"title": "Secondo i dati che hai appena fornito, stai bevendo, in media, {{number}} bevande alcoliche a settimana."
 					}
 				}
 			},
 			"comparedToOthers": {
-				"title": "What do you drink compared to others?",
+				"title": "Cosa bevi rispetto agli altri?",
 				"percentageBar": {
 					"clinic": {
-						"ctaText": "In this clinic",
-						"caption": "{{percentage}} percent of women drink less alcohol"
+						"ctaText": "In questa clinica",
+						"caption": "{{percentage}}% di donne beve meno alcol"
 					},
 					"england": {
-						"ctaText": "In England",
-						"caption": "{{percentage}}% of women drink less alcohol"
+						"ctaText": "In Inghilterra",
+						"caption": "{{percentage}}% di donne beve meno alcol"
 					}
 				}
 			},
@@ -557,266 +557,260 @@
 					"Not drink 6 units or more on a single occasion.",
 					"Have several alcohol-free days each week."
 				],
-				"cta": "Find out what is in your drink"
+				"cta": "Scopri cosa c'è nel tuo drink "
 			},
 			"alcoholRisks": {
-				"title": "Risks of alcohol-related harm"
+				"title": "Fattori di rishio legati all'alcol"
 			},
 			"smoking": {
-				"title": "Your Smoking",
+				"title": "Fumo",
 				"smoker": {
 					"list": [
-						"Every month, over a third of smokers attempt to quit.",
-						"On any attempt, 18% of people seeking to quit succeed."
+						"Ogni mese, più di un terzo dei fumatori tenta di smettere.",
+						"Ad ogni tentativo, il 18% delle persone che cercano di smettere ha successo."
 					],
-					"support": "Support and medication are available to help with this, <0>{{link}}</0>.",
-					"supportLink": "click here to find out more"
+					"support": "Supporto e farmaci sono disponibili per aiutarti <0>{{link}}</0>.",
+					"supportLink": "clicca qui per saperne di più"
 				},
 				"nonSmoker": {
 					"list": [
-						"You said you do not smoke.",
-						"Not smoking is one of the best ways to stay healthy."
+						"Hai detto che non fumi.",
+						"Non fumare è uno dei modi migliori per mantenersi in salute."
 					]
 				}
 			},
 			"weight": {
-				"title": "Your Weight",
+				"title": "Peso",
 				"bmiCategories": {
 					"one": [
-						"Based on your answers, your body mass index (BMI) is {{bmi}}. A BMI below 18.5 means your weight is low.",
-						"If you are concerned about this, please seek advice from your GP."
+						"Sulla base delle tue risposte, il tuo indice di massa corporea (BMI) è {{bmi}}. Un BMI inferiore a 18,5 significa che il tuo peso è basso.",
+						"Se sei preoccupato per questo, chiedi consiglio al tuo medico di famiglia."
 					],
 					"two": [
-						"Based on your answers, you have a healthy weight.",
-						"Keeping a weight below {{stone}}st {{lbs}}lb ({{kilos}}kg) is a good way to stay healthy."
+						"In base alle tue risposte, hai un peso sano.",
+						"Mantenere un peso inferiore a {{stone}}st {{lbs}}lb ({{kilos}}kg) è un buon modo per rimanere in salute."
 					],
 					"three": [
-						"Based on your answers, your body mass index may be a little high.",
-						"Doctors recommend a healthy weight to keep risks of illness low.",
-						"For women your height, this is likely to be under {{stone}}st {{lbs}}lb ({{kilos}}kg).",
-						"You can find easy tips on healthy eating and keeping active under ‘Home’."
+						"In base alle tue risposte, il tuo indice di massa corporea potrebbe essere leggermente alto.",
+						"I medici raccomandano un peso sano per mantenere bassi i rischi di malattia.",
+						"Per le donne della tua altezza, è probabile che sia inferiore a {{stone}}st {{lbs}}lb ({{kilos}}kg).",
+						"Nella home page puoi trovare semplici consigli su un'alimentazione sana e su come mantenerti attiva."
 					],
 					"four": [
-						"Based on your answers, your body mass index may be high.",
-						"Doctors recommend aiming for a healthy weight to keep risks of illness low.",
-						"For women your height, this is likely to be under {{stone}}st {{lbs}}lb ({{kilos}}kg).",
-						"You can find easy tips on healthy eating and keeping active under ‘Home’."
+						"In base alle tue risposte, il tuo indice di massa corporea potrebbe essere leggermente alto.",
+						"I medici raccomandano un peso sano per mantenere bassi i rischi di malattia.",
+						"Per le donne della tua altezza, è probabile che sia inferiore a {{stone}}st {{lbs}}lb ({{kilos}}kg).",
+						"Nella home page puoi trovare semplici consigli su un'alimentazione sana e su come mantenerti attiva."
 					]
 				}
 			}
 		},
 		"session": {
-			"end": "End of session",
-			"endBody": "Your session has ended, please complete the questionnaire again to view your results."
+			"end": "Fine della sessione",
+			"endBody": "La tua sessione è terminata, per favore completa nuovamente il questionario per visualizzare i risultati."
 		},
 		"share": {
-			"title": "Share",
-			"success": "URL Copied to clipboard"
+			"title": "Condividi",
+			"success": "URL copiato negli appunti"
 		},
 		"smoking": {
 			"title": "Smoking",
-			"body": "Cutting down or stopping smoking is one of the best things you can do to prevent a range of health problems. \n\nHere are some things you can do if you smoke: \n\n <0>{{list}}</0>",
+			"body": "Ridurre o smettere di fumare è una delle cose migliori che puoi fare per prevenire una serie di problemi di salute.\n\nEcco alcune cose che puoi fare se fumi: \n\n <0>{{list}}</0>",
 			"list": [
-				"Sign up to <a href=\"https://www.nhs.uk/smokefree\" rel=\"noreferrer noopener\" target=\"_blank\">NHS Smokefree</a> to receive free tips, support and motivation.",
-				"Call the Smokefree National Helpline on 0300 123 1044 to speak to a trained adviser"
+				"Consulta, sul sito del Ministero della Salute, la guida per smettere di fumare dell’Istituto Superiore di Sanità (ISS) e l’elenco delle strutture sanitarie che si occupano delle problematiche legate al fumo di tabacco.",
+				"Chiama il numero verde “Telefono Verde Fumo 800554088” per parlare con un consulente qualificato."
 			]
 		},
 		"stayingActive": {
-			"title": "Staying Active",
-			"researchListTitle": "Research studies have shown that: <0>{{list}}</0>",
+			"title": "Rimanere Attivi",
+			"researchListTitle": "Diversi studi hanno dimostrato che: <0>{{list}}</0>",
 			"researchList": [
-				"30 minutes of physical activity a day or 3 ½ hours a week can reduce your risk of breast cancer by at least 20%",
-				"It doesn't matter what sort of activity you do, it is the amount that makes a difference",
-				"What matters is that the activity gets you warmer, breathing harder, and your heart beating faster."
+				"30 minuti di attività fisica al giorno o 3 ore e mezza a settimana possono ridurre il rischio di cancro al seno di almeno il 20%",
+				"Non importa che tipo di attività svolgi, è la quantità che fa la differenza",
+				"Ciò che conta è che l'attività ti riscaldi, ti faccia respirare più forte e il cuore batta più velocemente."
 			],
-			"activityBenefitsListTitle": "Regular physical activity is sometimes described as a wonder drug. People who do regular physical activity have: <0>{{list}}</0>",
+			"activityBenefitsListTitle": "L'attività fisica regolare è talvolta descritta come una medicina miracolosa. Le persone che fanno attività fisica regolare hanno: <0>{{list}}</0>",
 			"activityBenefitsList": [
-				"Up to a 50% lower risk of colon cancer and type 2 diabetes",
-				"Up to a 35% lower risk of coronary heart disease or stroke",
-				"Up to a 30% lower risk of depression or dementia",
-				"Up to an 80% lower risk of osteoarthritis."
+				"Fino al 50% in meno di rischio di cancro al colon e diabete di tipo 2",
+				"Fino al 35% in meno di rischio di malattia coronarica o ictus",
+				"Fino al 30% in meno di rischio di depressione o demenza",
+				"Fino all'80% in meno di rischio di artrosi."
 			],
-			"nhsRecommendationListTitle": "To stay healthy, the NHS recommends that you: <0>{{list}}</0>",
+			"nhsRecommendationListTitle": "Per rimanere in buona salute, L’IOMS consiglia di: <0>{{list}}</0>",
 			"nhsRecommendationList": [
-				"Aim to be active daily",
-				"Do at least 150 minutes of moderate physical activity every week (for instance cycling or brisk walking), or at least 75 minutes of vigorous physical activity",
-				"Do strength exercises on 2 or more days a week that work all the major muscles (legs, hips, back, abdomen, chest, shoulders and arms)",
-				"Minimise the amount of time you spend sitting."
+				"Fare attività fisica ogni giorno",
+				"Fare almeno 150 minuti di attività fisica moderata ogni settimana (ad esempio bicicletta o camminata veloce) o almeno 75 minuti di attività fisica vigorosa",
+				"Fare esercizi di forza per 2 o più giorni alla settimana che facciano lavorare tutti i muscoli principali (gambe, fianchi, schiena, addome, petto, spalle e braccia)",
+				"Ridurre al minimo il tempo che si trascorre seduti."
 			],
 			"activityList": [
-				"Walking or cycling to work",
-				"Getting off the bus one stop before your destination",
-				"Going for a walk or a ride with friends rather than meeting for coffee."
+				"Andare al lavoro a piedi o in bicicletta",
+				"Scendere dall'autobus una fermata prima della propria destinazione",
+				"Fare una passeggiata o un giro con gli amici piuttosto che incontrarsi per un caffè."
 			],
-			"activityListTitle": "Don't worry about hitting these targets straight away.",
-			"activityListStrapline": "Choose an activity you enjoy and fits in your daily life. The easiest way is to build activity into the things you do every day, for instance: <0>{{list}}</0> Additional information:",
-			"additionalInformation": "Additional information",
+			"activityListTitle": "Non preoccuparti di raggiungere subito questi obiettivi.",
+			"activityListStrapline": "Scegli un'attività che ti piace e che si adatta alla tua vita quotidiana. Il modo più semplice è inserire l’attività fisica nelle cose che fai ogni giorno, ad esempio: <0>{{list}}</0> Informazioni aggiuntive:",
+			"additionalInformation": "Informazioni aggiuntive",
 			"moderatePhysicalActivity": {
-				"ctaText": "What is moderate physical activity?",
+				"ctaText": "Che cos'è l'attività fisica moderata?",
 				"modal": {
-					"title": "Moderate physical activity",
-					"body": "Moderate activity will raise your heart rate, and make you breathe faster and feel warmer. One way to tell if you're working at a moderate level is if you can still talk, but you can't sing the words to a song.\n\nExamples of moderate-intensity activities:\n\n <0>{{list}}</0>",
+					"title": "Attività fisica moderata",
+					"body": "Un'attività moderata aumenta la frequenza cardiaca, ti farà respirare più velocemente e ti farà sentire caldo. Un modo per capire se stai lavorando a un livello moderato è verificare se puoi ancora parlare, ma non cantare una canzone.\n\n Esempi di attività di moderata intensità:\n\n <0>{{list}}</0>",
 					"list": [
-						"Walking briskly (3 miles per hour or faster, but not race-walking)",
-						"Riding a bike on level ground or with few hills (10 to 12 miles per hour)",
-						"Water aerobics",
-						"Doubles tennis",
-						"Dancing",
-						"General gardening."
+						"Camminare a passo svelto (poco meno di 5 km all'ora o più veloce, ma non di corsa)",
+						"Andare in bicicletta su un terreno pianeggiante o con poca pendenza (da 16 a 20 km all'ora circa)",
+						"Acquagym",
+						"Tennis doppio",
+						"Ballare",
+						"Giardinaggio."
 					]
 				}
 			},
 			"vigorousPhysicalActivity": {
-				"ctaText": "What is vigorous physical activity?",
+				"ctaText": "Che cos'è un'attività fisica intensa?",
 				"modal": {
-					"title": "Vigorous physical activity",
-					"body": "Vigorous activity makes you breathe hard and fast. If you're working at this level, you won't be able to say more than a few words without pausing for breath. \n\nIn general, 75 minutes of vigorous activity can give similar health benefits to 150 minutes of moderate activity.\n\nExamples of vigorous-intensity activities include:\n\n <0>{{list}}</0>",
+					"title": "Attività fisica intensa",
+					"body": "L’attività vigorosa ti fa respirare forte e veloce. Se lavori a questo livello, non sarai in grado di dire più di poche parole senza fare una pausa per riprendere fiato. \n\nIn generale, 75 minuti di attività vigorosa possono dare benefici per la salute simili a 150 minuti di attività moderata.\n\nEsempi di attività ad alta intensità includono:\n\n <0>{{list}}</0>",
 					"list": [
-						"Jogging or running",
-						"Riding a bike fast (14 miles per hour or faster) or on hills",
-						"Swimming lapses",
-						"Singles tennis",
-						"Football, basketball or rugby",
-						"Martial arts."
+						"Fare jogging o correre",
+						"Andare in bicicletta velocemente (circa 22 km all’ora o più veloce) o in pendenza",
+						"Nuotare",
+						"Tennis singolo",
+						"Calcio, basket o rugby",
+						"Arti marziali."
 					]
 				}
 			},
 			"peopleWithADisability": {
-				"ctaText": "People with a disability",
+				"ctaText": "Persone con disabilità",
 				"modal": {
-					"title": "People with a disability",
-					"body": "NHS recommendations are no different for people with learning or physical disabilities. \n\nYet, some people may feel it is harder for them to meet these recommendations. Here are ways you can increase your physical activity if you face such obstacles.\n\n <0>{{list}}</0> \n\n Find accessible sports and classes close to your home on <1>Activity Alliance</1>.",
+					"title": "Persone con disabilità",
+					"body": "Le raccomandazioni del SSN non sono diverse per le persone con disabilità fisiche o di apprendimento. \n\nTuttavia, alcune persone potrebbero ritenere che per loro sia più difficile soddisfare queste raccomandazioni. Ecco alcuni modi per aumentare l’attività in caso di disabilità: \n\n <0>{{list}}</0> \n\n Find accessible sports and classes close to your home on <1>Activity Alliance</1>.",
 					"list": [
-						"If you can walk, there's no easier way to increase your activity levels. Try to include walking in your daily routine. Find a friend to walk with or join a walking group for some extra motivation.",
-						"Adapted cycles make cycling accessible to all. Special bikes such as tricycles, quadcycles, hand-powered bikes called handcycles, and power-assisted bicycles that suit a variety of learning or physical needs. Find out more on <a href=\"https://www.cyclinguk.org/article/cycling-guide/guide-to-adapted-cycles\" rel=\"noreferrer noopener\" target=\"_blank\">Cycling UK</a> or <a href=\"https://wheelsforwellbeing.org.uk/\" rel=\"noreferrer noopener\" target=\"_blank\">Wheels for Wellbeing</a>.",
-						"If you can run, try the popular <a href=\"https://www.nhs.uk/live-well/exercise/couch-to-5k-week-by-week/\" rel=\"noreferrer noopener\" target=\"_blank\">NHS Couch to 5K</a> running plan.",
-						"Low-impact exercises such as yoga, pilates and tai chi have been adapted to suit the needs of people with different types of disabilities. Get advice first, however, especially if you have a physical impairment – exercises not suited to your impairment may be harmful."
+						"Se puoi camminare, non c’è modo più semplice per aumentare il livello di attività fisica. Cerca di includere la camminata nella tua routine quotidiana. Trova un amico con cui camminare o unisciti a un gruppo di persone che camminano per avere una motivazione in più.",
+						"Le biciclette adattate rendono il ciclismo accessibile a tutti. Biciclette speciali come tricicli, quad, biciclette azionate a mano (handcycle) e biciclette a pedalata assistita si adattano a una varietà di esigenze fisiche o di apprendimento.",
+						"Esercizi a basso impatto come yoga, pilates e tai chi sono stati adattati per soddisfare le esigenze delle persone con diversi tipi di disabilità. Tuttavia, chiedi prima un consiglio, soprattutto se hai una disabilità fisica: esercizi non adatti alla tua disabilità possono essere dannosi."
 					]
 				}
 			},
 			"olderFallRisk": {
-				"ctaText": "Older adults with a limiting condition or a risk of fall",
+				"ctaText": "Anziani con una condizione limitante o a rischio di caduta",
 				"modal": {
-					"title": "Older adults with a limiting condition or a risk of fall",
-					"body": "Older adults at risk of falls, such as people with weak legs, poor balance and some medical conditions, should do exercises to improve balance and co-ordination on at least two days a week. \n\nExamples include yoga, tai chi and dancing."
+					"title": "Anziani con una condizione limitante o a rischio di caduta",
+					"body": "Gli anziani a rischio di cadute, come le persone con gambe deboli, scarso equilibrio e determinate patologie, dovrebbero fare esercizi per migliorare l’equilibrio e la coordinazione almeno due giorni alla settimana.\n\nGli esempi includono lo yoga, il tai chi e la danza."
 				}
 			},
 			"youngPeople": {
-				"ctaText": "Young people (5 to 18 years old)",
+				"ctaText": "Giovani (dai 5 ai 18 anni)",
 				"modal": {
-					"title": "Young people (5 to 18 years old)",
-					"body": "To stay healthy, the NHS recommends that children and young people do: \n\n <0>{{list}}</0> \n\n Children and young people should reduce the time they spend sitting watching TV, playing computer games and travelling by car when they could walk or cycle instead.",
+					"title": "Giovani (dai 5 ai 18 anni)",
+					"body": "Per rimanere in buona salute, il SSN raccomanda che i bambini e i giovani facciano: \n\n <0>{{list}}</0> \n\n I bambini e i giovani dovrebbero ridurre il tempo che trascorrono seduti a guardare la TV, a giocare al computer e in macchina quando invece potrebbero camminare o andare in bicicletta.",
 					"list": [
-						"At least 60 minutes of physical activity every day, whether moderate or vigorous",
-						"On three days a week, these activities should involve exercises for strong muscles, such as push-ups, and exercises for strong bones, such as jumping and running"
+						"Almeno 60 minuti di attività fisica ogni giorno, moderata o vigorosa",
+						"Queste attività dovrebbero includere per tre giorni alla settimana esercizi per  rinforzare i muscoli, come le flessioni, ed esercizi per rinforzare le ossa, come saltare e correre"
 					]
 				}
 			}
 		},
 		"topTips": {
-			"title": "Top Tips",
+			"title": "Suggerimenti",
 			"body": "Struggling to cut down or think you might have a problem with drinking? There’s lots of help out there and a good place to start is with a visit to your GP. \n\nYou can call Drinkline free on 0300 123 1110 or find local services on NHS Choices. You can also visit Soberistas to speak to others who are stopping drinking.",
-			"benefitsListTitle": "There are many benefits of reducing your alcohol intake, for example:\n\n <0>{{list}}</0>",
+			"benefitsListTitle": "Ridurre il consumo di alcol comporta molti vantaggi, ad esempio:\n\n <0>{{list}}</0>",
 			"benefitsList": [
-				"feel healthier",
-				"save some cash",
-				"have more energy."
+				"Sentirsi più sani",
+				"Risparmiare dei soldi",
+				"Avere più energia."
 			],
-			"tipsListHeading": "Tips to keep your alcohol intake down",
+			"tipsListHeading": "Suggerimenti per ridurre il consumo di alcol",
 			"makeAPlan": {
-				"ctaText": "Make a plan",
+				"ctaText": "Fai un piano",
 				"modal": {
-					"title": "Make a plan",
+					"title": "Fai un piano",
 					"body": "<0>{{list}}</0>",
 					"list": [
-						"Give yourself goals, for instance, keeping a number of days free of alcohol every week or not drinking more than a certain number of units of alcohol on any occasion you might drink alcohol.",
-						"Give yourself a realistic timeframe to cut down.",
-						"Many people find it helpful to write down goals and keep a diary of how much they drink. It keeps them motivated and helps them measure their success. Try using an app or a diary template."
+						"Datti degli obiettivi, ad esempio, mantenere un numero di giorni senza alcol ogni settimana o non bere più di un certo numero di unità alcoliche in ogni occasione in cui potresti bere alcolici.",
+						"Concediti un lasso di tempo realistico per ridurre il tuo consumo di alcol.",
+						"Molte persone trovano utile annotare gli obiettivi e tenere un diario di quanto bevono. Le mantiene motivate e le aiuta a misurare i loro successi. Prova a utilizzare un’app o un diario."
 					],
-					"externalLink": "Try the NHS Drinks Tracker app",
-					"externalLinkTwo": "Download a diary template"
+					"externalLink": "Prova l'app NHS Drinks Tracker",
+					"externalLinkTwo": "Scarica un modello di diario"
 				}
 			},
 			"changeDrink": {
-				"ctaText": "Change your drink",
+				"ctaText": "Modifica il tuo drink",
 				"modal": {
-					"title": "Change your drink",
-					"body": "Cut down the alcohol by swapping strong beers or wines for ones with a lower strength (e.g. 5% to 4%) or go for smaller sizes - try bottled beer instead of pints, or a small glass of wine instead of a large one.",
+					"title": "Modifica il tuo drink",
+					"body": "Riduci l'alcol sostituendo birre o vini forti con bevande con una gradazione inferiore (ad es. dal 5% al 4%) o bicchieri dalle dimensioni più piccole - prova la birra in bottiglia invece delle media o un bicchiere di vino piccolo invece di uno grande.",
 					"list": [],
-					"externalLink": "See how your drinks measure up"
+					"externalLink": "Guarda come sono le tue bevande"
 				}
 			},
 			"getOthersInvolved": {
-				"ctaText": "Get others involved",
+				"ctaText": "Coinvolgi gli altri",
 				"modal": {
-					"title": "Get others involved",
+					"title": "Coinvolgi gli altri",
 					"body": "<0>{{list}}</0>",
 					"list": [
-						"If you let your friends and family know you're cutting down and it's important to you, you could get support from them.",
-						"You could even join in on events like Dry January.",
-						"If you regularly drink at home, you can also decide to limit your drinking to social occasions, or outside your home."
+						"Se fai sapere ai tuoi amici e alla tua famiglia che stai cercando di ridurre il consumo di alcol e che per te è importante, potrai ricevere supporto anche da loro.",
+						"Se a casa bevi regolarmente, puoi decidere di limitare il consumo di alcol alle occasioni sociali o fuori casa."
 					]
 				}
 			},
 			"setBudget": {
-				"ctaText": "Set a budget",
+				"ctaText": "Stabilisci un budget",
 				"modal": {
-					"title": "Set a budget",
-					"body": "Only take a fixed amount of money to spend on alcohol, and avoid drinking in rounds with other people."
+					"title": "Stabilisci un budget",
+					"body": "Fissa una somma da spendere in alcolici ed evita di bere in giro con altre persone."
 				}
 			},
 			"takeABreak": {
-				"ctaText": "Take a Break",
+				"ctaText": "Fai una pausa",
 				"modal": {
-					"title": "Take a Break",
-					"body": "Have several drink-free days each week. \n\nThe Department of Health recommends that you drink no more than 14 units a week, and keep several alcohol-free days every week.",
+					"title": "Fai una pausa",
+					"body": "Fai in modo di stare diversi giorni senza bere ogni settimana.",
 					"list": []
 				}
 			},
 			"stayHydrated": {
-				"ctaText": "Stay hydrated",
+				"ctaText": "Rimani idratata",
 				"modal": {
-					"title": "Stay hydrated",
-					"body": "Have a glass of water before you have alcohol and alternate alcoholic drinks with water or a soft drink.\n\n You can try experimenting with some tasty non-alcoholic drinks or mocktails. \n\nFor some inspiration visit <1>www.joinclubsoda.co.uk<1>."
+					"title": "Rimani idratata",
+					"body": "Bevi un bicchiere d'acqua prima di bere alcolici e alterna le bevande alcoliche con acqua o una bibita.\n\n Puoi provare a sperimentare gustose bevande analcoliche. \n\nPer un po' di ispirazione visita <1>www.joinclubsoda.co.uk<1>."
 				}
 			}
 		},
 		"unitKey": {
-			"title": "This is one unit of alcohol...",
+			"title": "Una bevanda standard contiene 12 g di alcol e corrisponde a:",
 			"singleUnits": {
 				"halfPint": {
-					"title": "Half Pint",
-					"description": "Regular beer, lager or cider"
+					"title": "Bicchiere di birra",
+					"description": "un bicchiere di birra (330 ml, gradazione 4,5%)"
 				},
 				"halfGlass": {
-					"title": "Half Glass",
-					"description": "Half a 175ml glass of wine"
+					"title": "Bicchiere di vino",
+					"description": "un bicchiere di vino (125 ml, gradazione 12%)"
 				},
 				"singleSpirit": {
-					"title": "Single Spirit",
-					"description": "1 single measure of spirit"
-				},
-				"smallGlass": {
-					"title": "Small Glass",
-					"description": "1 small glass of sherry"
+					"title": "Bicchierino di superalcolico",
+					"description": "un bicchierino di superalcolico (40 ml, gradazione 40%)"
 				},
 				"singleAperitifs": {
-					"title": "Single Aperitifs",
-					"description": "1 single measure of aperitifs"
+					"title": "Bicchiere di aperitivo",
+					"description": "un bicchiere di aperitivo (80 ml, gradazione 18%)"
 				}
 			}
 		},
 		"weight": {
-			"title": "Weight",
-			"body": "Being overweight or obese generally increases risks of breast cancer.  Even a 5% reduction in body weight cuts risks of cancer. Take action to be a healthy body weight: <0>{{list}}</0>",
+			"title": "Peso",
+			"body": "Essere obesi o in sovrappeso generalmente aumenta i rischi di cancro al seno. Anche una riduzione del 5% del peso corporeo riduce il rischio di cancro. Come agire per avere un peso corporeo sano: <0>{{list}}</0>",
 			"list": [
-				"Weigh yourself weekly – keep an eye on clothes that are starting to feel tight",
-				"Adjust your diet and physical activity to keep a healthy weight."
+				"Pesarsi settimanalmente tenendo d'occhio i vestiti che iniziano a diventare stretti",
+				"Regolare la dieta e l’attività fisica per mantenere un peso sano."
 			],
-			"mainLinksTitle": "The main links between weight and increased risk of breast cancer are: <0>{{mainLinksList}}</0>",
+			"mainLinksTitle": "I principali collegamenti tra peso e aumento del rischio di cancro al seno sono: <0>{{mainLinksList}}</0>",
 			"mainLinksList": [
-				"Putting on weight in adulthood increases your risk of developing breast cancer after the menopause. The more weight a woman gains over the course of her adult life, the higher the risk of developing breast cancer will be after she has gone through the menopause.",
-				"Being overweight or obese after the menopause increases your risk of breast cancer. This is likely to be because fat tissue becomes your main source of the female hormones oestrogen after you have been through the menopause. The more body fat you have, the higher your levels of oestrogen are likely to be and this, in turn, may increase your risk of breast cancer."
+				"Aumentare di peso in età adulta aumenta il rischio di sviluppare il cancro al seno dopo la menopausa. Più peso acquista una donna nel corso della sua vita adulta, maggiore sarà il rischio di sviluppare il cancro al seno dopo la menopausa.",
+				"Essere obese o in sovrappeso dopo la menopausa aumenta il rischio di cancro al seno. È probabile che ciò sia dovuto al fatto che, dopo la menopausa, il tessuto adiposo diventa la principale fonte di ormoni femminili estrogeni. Più grasso corporeo si ha, più alti sono i livelli di estrogeni e questo, a sua volta, può aumentare il rischio di cancro al seno."
 			]
 		},
 		"wellbeing": {
