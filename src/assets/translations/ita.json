@@ -933,7 +933,7 @@
 			"spoonsOfSugar": "{{number}} cucchiaini di zucchero",
 			"total": "+{{total}}",
 			"units": "<value>{{value}}</value> Totale Unità",
-			"viewTotal": "View Items",
+			"viewTotal": "Visualizza Elementi",
 			"calories": "<value>{{value}}</value> Totale Calorie",
 			"food": "<value>{{value}}</value> Equivalente alimentare"
 		}
