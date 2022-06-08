@@ -84,11 +84,11 @@
 					"Limita la quantità di alcol che bevi"
 				],
 				"ctas": [
-					"Breast cancer risk and body weight",
-					"Breast cancer risk and alcohol",
-					"Breast cancer risk and physical activity"
+					"Rischio di cancro al seno e peso corporeo",
+					"Rischio di cancro al seno e alcol",
+					"Rischio di cancro al seno e attività fisica"
 				],
-				"source": "Source: Cancer Research UK, Breast cancer risk factors, Accessed May 2018."
+				"source": "Fonte: Cancer Research UK, Breast cancer risk factors, Accessed May 2018."
 			},
 			"cannotChange": {
 				"title": "Cose che non puoi cambiare",
@@ -113,7 +113,7 @@
 					"Anche l'assunzione della terapia ormonale sostitutiva (TOS) o della pillola contraccettiva può influire sul rischio di sviluppare il cancro al seno. Se la cosa ti riguarda e sei preoccupata ti suggeriamo di discuterne con il tuo medico di famiglia."
 				]
 			},
-			"source": "Sorgente: Cancer Research UK, Breast cancer risk factors, Accessed May 2018."
+			"source": "Fonte: Cancer Research UK, Breast cancer risk factors, Accessed May 2018."
 		},
 		"diet": {
 			"title": "Mangiare bene",
@@ -245,7 +245,7 @@
 			},
 			"diet": {
 				"title": "Mangiare bene",
-				"strapline": "What you eat is important for your weight and future health."
+				"strapline": "Quello che mangi è importante per il tuo peso e la tua salute futura."
 			},
 			"myths": {
 				"title": "Falsi miti sulla salute del seno",
@@ -551,11 +551,11 @@
 				}
 			},
 			"deptOfHealthRecommendations": {
-				"title": "To maintain good health, the Department of Health recommends to: <0>{{list}}</0>",
+				"title": "Per mantenere una buona salute, il Dipartimento della Salute raccomanda di: <0>{{list}}</0>",
 				"list": [
-					"Not drink more than 14 units of alcohol a week.",
-					"Not drink 6 units or more on a single occasion.",
-					"Have several alcohol-free days each week."
+					"Non bere più di 14 bevande alcoliche a settimana.",
+					"Non bere 6 bevande alcoliche o più in una sola occasione.",
+					"Avere diversi giorni senza alcol ogni settimana."
 				],
 				"cta": "Scopri cosa c'è nel tuo drink "
 			},
@@ -814,126 +814,128 @@
 			]
 		},
 		"wellbeing": {
-			"title": "Wellbeing",
-			"body": "Tap on a number to learn more.",
-			"moreInfo": "For helpful tips and apps to improve your health and wellbeing visit <0>{{link}}</0>",
+			"title": "Benessere",
+			"body": "Tocca un numero per saperne di più.",
+			"moreInfo": "Per suggerimenti e app utili per migliorare la tua salute e il tuo benessere, visita <0>{{link}}</0>",
 			"moreInfoLink": "www.nhs.uk/oneyou",
-			"imageCredit": "Infographic vector created by Freepik",
+			"imageCredit": "Vettore infografico creato da Freepik",
 			"infoCtas": {
 				"moodAndAnxiety": {
-					"ctaText": "{{number}}: Improve your mood and reduce anxiety",
+					"ctaText": "{{number}}: Migliora il tuo umore e riduci l’ansia",
 					"modal": {
-						"title": "Improve your mood and reduce anxiety",
-						"body": "Many people drink alcohol to relax and combat feelings of stress, but alcohol’s effect on the brain actually increases feelings of depression and anxiety over time, and reduces the likelihood of you using other ways (e.g walks, chatting with friends, reading) that help keep stress levels under control and built up your resilience to stress. \n\nWhy not make a list of 10 things, not involving alcohol you could do to reduce stress? Commit to trying at least one a week."
+						"title": "Migliora il tuo umore e riduci l’ansia",
+						"body": "Molte persone bevono per rilassarsi e combattere la sensazione di stress, ma l'effetto dell'alcol sul cervello in realtà, nel tempo, aumenta le sensazioni di depressione e ansia e riduce la probabilità che si faccia ricorso ad altre modalità (ad esempio passeggiate, chat con gli amici, lettura) che aiutano a mantenere i livelli di stress sotto controllo e che si costruisca una propria resilienza allo stress. \n\nPerché non fare una lista di 10 cose, che non implicano il consumo di alcol, da fare per ridurre lo stress? Impegnati a provarne almeno una alla settimana."
 					}
 				},
 				"dementia": {
-					"ctaText": "{{number}}: Better focus and lower risks of dementia",
+					"ctaText": "{{number}}: Maggiore concentrazione e minori rischi di demenza",
 					"modal": {
-						"title": "Better focus and lower risks of dementia",
-						"body": "Under construction"
+						"title": "Maggiore concentrazione e minori rischi di demenza",
+						"body": "(In costruzione)"
 					}
 				},
 				"liver": {
-					"ctaText": "{{number}}: A healthy liver",
+					"ctaText": "{{number}}: Un fegato sano",
 					"modal": {
-						"title": "A healthy liver",
-						"body": "Under construction"
+						"title": "Un fegato sano",
+						"body": "(In costruzione)"
 					}
 				},
 				"hairSkinNails": {
-					"ctaText": "{{number}}: Healthy skin, hair and nails",
+					"ctaText": "{{number}}: Pelle, capelli e unghie sani",
 					"modal": {
-						"title": "Healthy skin, hair and nails",
-						"body": "Healthy skin, hair and nails can really improve how healthy you look. \n\nAlcohol dehydrates the skin making it look dull and tired. It also dilates the facial blood vessels, the cause of spidery red thread veins. Many alcoholic drinks are also high in sugar, which can cause inflammation and insulin spikes, which lead to puffy skin. \n\n Your hair and nails will also benefit from good levels of hydration, as regular alcohol can leave them dry and brittle. \n\nIf you are feeling thirsty, why not replace drinks containing alcohol with ones that hydrate the body instead?"
+						"title": "Pelle, capelli e unghie sani",
+						"body": "Pelle, capelli e unghie sani possono davvero migliorare il tuo aspetto. \n\nL'alcol disidrata la pelle rendendola spenta e stanca. Dilata anche i vasi sanguigni facciali, la causa delle vene a ragnatela. Molte bevande alcoliche sono anche ricche di zuccheri, che possono causare infiammazioni e picchi di insulina e che fanno gonfiare la pelle.\n\n Anche i capelli e le unghie trarranno beneficio da buoni livelli di idratazione, poiché l'alcol può lasciarli secchi e fragili. \n\nSe hai sete, perché non sostituire le bevande contenenti alcol con quelle che idratano il corpo?"
 					}
 				},
 				"sleep": {
-					"ctaText": "{{number}}: Improve Your Sleep",
+					"ctaText": "{{number}}: Migliora la qualità del sonno",
 					"modal": {
-						"title": "Improve Your Sleep",
-						"body": "People often think that drinking alcohol helps them get to sleep. It may help make you sleepy, but research shows it stops you from sleeping deeply by disrupting your natural sleep cycle, leaving you tired the next day. \n\nMany people find that by reducing their alcohol consumption they sleep more deeply, and feel refreshed in the morning."
+						"title": "Migliora la qualità del sonno",
+						"body": "Le persone spesso ritengono che bere alcolici le aiuti ad addormentarsi. L’alcol può aiutare a far venire il sonno, ma la ricerca mostra che impedisce di dormire profondamente interrompendo il ciclo naturale del sonno, lasciando la stanchezza al giorno successivo. \n\nMolte persone scoprono che riducendo il consumo di alcol dormono più profondamente e si sentono riposate al mattino."
 					}
 				},
 				"nutrition": {
-					"ctaText": "{{number}}: Improved nutrition",
+					"ctaText": "{{number}}: Migliora l’alimentazione",
 					"modal": {
-						"title": "Improved nutrition",
-						"body": "Alcohol is packed with calories that contain no nutritional value and can lower blood sugar levels making you feel hungry and more likely to overeat food that is high in sugar and fat. \n\nSee how many calories you can save by reducing the amount you drink."
+						"title": "Migliora l’alimentazione",
+						"body": "L'alcol è ricco di calorie che non contengono alcun valore nutritivo e possono abbassare i livelli di zucchero nel sangue facendoti sentire affamata e più propensa a mangiare cibo ad alto contenuto di zuccheri e grassi.\n\nScopri quante calorie puoi risparmiare riducendo la quantità di alcol che bevi."
 					}
 				},
 				"heart": {
-					"ctaText": "{{number}}: Protect your heart and circulation",
+					"ctaText": "{{number}}: Proteggi cuore e circolazione",
 					"modal": {
-						"title": "Protect your heart and circulation",
-						"body": "Under construction"
+						"title": "Proteggi cuore e circolazione",
+						"body": "(In costruzione)"
 					}
 				},
 				"digestion": {
-					"ctaText": "{{number}}: Healthy digestion and low risks of cancer",
+					"ctaText": "{{number}}: Digestione sana e basso rischio di cancro",
 					"modal": {
-						"title": "Improved digestion",
-						"body": "Under construction"
+						"title": "Migliora la digestione",
+						"body": "(In costruzione)"
 					}
 				},
 				"staySafe": {
-					"ctaText": "{{number}}: Staying safe",
+					"ctaText": "{{number}}: Evita le situazioni di pericolo",
 					"modal": {
-						"title": "Stay safe",
-						"body": "Drinking too much, too quickly, on any single occasion can increase your risk of accidents (including falls), impair your judgment so you may think something is safe when it isn’t, and result in you doing things (driving, having unsafe sex, starting an argument) which you know you would not choose to do if you were fully in control. \n\nPerhaps you could set yourself a limit on how much you will drink to stay safe and in control of what you do and say?"
+						"title": "Evita le situazioni di pericolo",
+						"body": "Bere troppo, troppo velocemente, in ogni singola occasione può aumentare il rischio di incidenti (incluse le cadute), compromettere il giudizio (indurti a pensare che una certa cosa sia vera quando non lo è affatto), e farti fare cose (guidare, avere rapporti sessuali non protetti, iniziare una discussione) che non sceglieresti di fare se avessi il pieno controllo di te stessa. \n\nForse potresti stabilire un limite a quanto berrai per sicuro evitare situazioni di pericolo e avere il controllo di ciò che fai e dici?"
 					}
 				}
 			}
 		},
 		"whatsInYourDrink": {
-			"addDrink": "Add drink: {{drink}}",
-			"addMore": "Add More",
-			"calculate": "Calculate",
-			"choose": "Choose from a range of {{number}} drinks",
-			"clearTotal": "Clear Total",
+			"addDrink": "Aggiungi bevanda: {{drink}}",
+			"addMore": "Aggiungi altro",
+			"calculate": "Calcola",
+			"choose": "Scegli tra una gamma di {{number}} bevande",
+			"clearTotal": "Cancella Totale",
 			"kcal": "{{number}} kcal",
-			"removeDrink": "Remove drink: {{drink}}",
-			"title": "What’s In Your Drink",
-			"tooltip": "Add a drink to get started",
+			"removeDrink": "Rimuovi bevanda: {{drink}}",
+			"title": "Cosa c'è nella tua bevanda",
+			"tooltip": "Aggiungi una bevanda per iniziare",
 			"steps": {
 				"one": {
-					"title": "Step 1: Select a drink"
+					"title": "Step 1: Seleziona una bevanda"
 				},
 				"two": {
-					"title": "Step 2: Enter quantity"
+					"title": "Step 2: Inserisci quantità"
 				},
 				"three": {
-					"title": "Step 3: Check the total"
+					"title": "Step 3: Controlla il totale"
 				}
 			},
 			"ukUnitInfo": {
-				"title": "Units of alcohol",
-				"body": "A UK unit is worth: <0>{{list}}</0>",
+				"title": "Unità alcolica",
+				"body": "Una bevanda standard contiene 12 g di alcol e corrisponde a: <0>{{list}}</0>",
 				"list": [
-					"10 millilitres",
-					"8 grams of pure alcohol"
+					"un bicchiere di birra (330 ml)",
+					"un bicchiere di vino (125 ml)",
+					"un bicchiere di aperitivo (80 ml)",
+					"un bicchierino di superalcolico (40 ml)"
 				],
-				"additionalContent": "It is also sometimes called a 'standard drink'."
+				"additionalContent": "A volte è anche chiamato bevanda standard."
 			},
 			"deptOfHealth": {
-				"title": "The doctors' recommendation",
-				"body": "The Department of Health recommends that you: <0>{{list}}</0>",
+				"title": "La raccomandazione dei medici",
+				"body": "Il Dipartimento della Salute ti consiglia: <0>{{list}}</0>",
 				"list": [
-					"Drink under 14 units a week",
-					"Keep at least 2 days free of alcohol each week",
-					"Never drink more than 6 units in a single session"
+					"Bere meno di 14 bevande alcoliche a settimana",
+					"Mantenere almeno 2 giorni senza alcol ogni settimana",
+					"Non bere mai più di 6 bevande alcoliche in una singola sessione"
 				]
 			},
-			"reset": "Reset",
+			"reset": "Resetta",
 			"results": {
-				"title": "Results"
+				"title": "Risultati"
 			},
-			"spoonsOfSugar": "{{number}} teaspoons of sugar",
+			"spoonsOfSugar": "{{number}} cucchiaini di zucchero",
 			"total": "+{{total}}",
-			"units": "<value>{{value}}</value> Total Units",
+			"units": "<value>{{value}}</value> Totale Unità",
 			"viewTotal": "View Items",
-			"calories": "<value>{{value}}</value> Total Calories",
-			"food": "<value>{{value}}</value> Food equivalent"
+			"calories": "<value>{{value}}</value> Totale Calorie",
+			"food": "<value>{{value}}</value> Equivalente alimentare"
 		}
 	}
 }
