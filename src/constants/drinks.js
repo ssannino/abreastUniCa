@@ -1,7 +1,7 @@
 import pint_a from "assets/images/drinks/pint-a.svg";
 import wine_175ml from "assets/images/drinks/wine-175ml.svg";
 import spirit_double from "assets/images/drinks/spirit-double.svg";
-import aperitivo80ml from "assets/images/drinks/aperitivo80ml.png";
+import pimms from "assets/images/drinks/aperitivo80ml.png";
 
 export const drinksList = [
   {
@@ -32,8 +32,8 @@ export const drinksList = [
     kcal: 88
   },
   {
-    id: "aperitivo80ml",
-    image: aperitivo80ml,
+    id: "pimms",
+    image: pimms,
     container: "Glass",
     ml: 80,
     abv: 18,
