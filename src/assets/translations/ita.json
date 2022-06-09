@@ -138,11 +138,7 @@
 				"equivalentTo": "Equivalente alimentare: {{number}} cucchiaini",
 				"calories": "Calorie: {{calories}} kcal (Cal)",
 				"container": {
-					"bottle": "Bottiglia",
 					"pint": "Pinta",
-					"smallCan": "Lattina Piccola",
-					"largeCan": "Lattina Grande",
-					"smallGlass": "Bicchiere Piccolo",
 					"standardGlass": "bicchiere Standard",
 					"largeGlass": "Bicchiere Grande",
 					"glass": "Bicchiere"
@@ -150,58 +146,16 @@
 			},
 			"tag": "{{name}}, {{unit}} unità - {{abv}}%",
 			"lowStrengthPint": {
-				"name": "Birra/sidro a bassa gradazione (pint)"
-			},
-			"higherStrengthPint": {
-				"name": "Birra/sidro ad alta gradazione (pint)"
-			},
-			"lowStrengthCan": {
-				"name": "Birra/sidro a bassa gradazione (500ml)"
-			},
-			"higherStrengthCan": {
-				"name": "Birra/sidro ad alta gradazione (500ml)"
-			},
-			"higherStrengthLagerSmallCan": {
-				"name": "Birra chiara ad alta gradazione"
-			},
-			"higherStrengthLagerLargeCan": {
-				"name": "Birra chiara ad alta gradazione"
-			},
-			"higherStrengthLagerBottle": {
-				"name": "Birra chiara ad alta gradazione"
-			},
-			"smallWine": {
-				"name": "Vino (125ml)"
+				"name": "Bicchiere di Birra (330 ml)"
 			},
 			"regularWine": {
-				"name": "Vino (175ml)"
-			},
-			"largeWine": {
-				"name": "Vino (250ml)"
-			},
-			"bottleWine": {
-				"name": "Vino (bottiglia)"
-			},
-			"champagne": {
-				"name": "Champagne (175ml)"
-			},
-			"alcopop": {
-				"name": "Alcopop (275ml)"
-			},
-			"singleSpirit": {
-				"name": "Spirit (single)"
+				"name": "Bicchiere di Vino (125ml)"
 			},
 			"doubleSprit": {
-				"name": "Spirit (double)"
-			},
-			"creamliqueur": {
-				"name": "Irish cream liqueur (double)"
-			},
-			"fortified_wine": {
-				"name": "Port or Sherry (50ml)"
+				"name": "Bicchierino di Superalcolico (40 ml)"
 			},
 			"pimms": {
-				"name": "Pimm's or similar (double)"
+				"name": "Bicchiere di aperitivo (80 ml)"
 			}
 		},
 		"footer": {
