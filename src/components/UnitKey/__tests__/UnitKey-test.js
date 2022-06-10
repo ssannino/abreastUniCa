@@ -77,5 +77,5 @@ it("UnitKey Renders Elements Correctly", async () => {
   const drinkCardWrapper = container.querySelector("[data-testid='drink-card-wrapper'");
 
   expect(title.nodeName).toBe("H3");
-  expect(drinkCardWrapper.children.length).toBe(5);
+  expect(drinkCardWrapper.children.length).toBe(4);
 });
