@@ -1,5 +1,5 @@
-import en from "./en.json";
+import ita from "./ita.json";
 
 export default {
-  en: en
+  ita: ita
 };
