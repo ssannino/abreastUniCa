@@ -133,27 +133,28 @@ function Wellbeing(props: Props): Element<any> {
               {t("wellbeing.title")}
             </h2>
             <p className="u-padding-top u-margin-none">
-              <Trans
-                i18nKey={`wellbeing.moreInfo`}
-                values={{ link: t(`wellbeing.moreInfoLink`) }}
-                components={[
-                  <a
-                    href="https://www.nhs.uk/oneyou"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="u-styled-link u-styled-link--inherit"
-                  >
-                    {t(`wellbeing.moreInfoLink`)}
-                  </a>
-                ]}
-              ></Trans>
             </p>
             <p className="u-margin-top-none u-margin-bottom">{t("wellbeing.body")}</p>
 
             <h3 className="u-h4 u-margin-top-none u-margin-bottom">
               {t(`wellbeing.infoCtas.${selectedOption}.modal.title`)}
             </h3>
-            <p className="u-margin-top-none u-margin-bottom">{t(`wellbeing.infoCtas.${selectedOption}.modal.body`)}</p>
+                      <p className="u-margin-top-none u-margin-bottom">{t(`wellbeing.infoCtas.${selectedOption}.modal.body`)}
+                          <Trans
+                              i18nKey={`wellbeing.moreInfo`}
+                              values={{ link: t(`wellbeing.moreInfoLink`) }}
+                              components={[
+                                  <a
+                                      href="https://www.salute.gov.it/portale/alcol/dettaglioContenutiAlcol.jsp?lingua=italiano&id=5526&area=alcol&menu=vuoto"
+                                      target="_blank"
+                                      rel="noopener noreferrer"
+                                      className="u-styled-link u-styled-link--inherit"
+                                  >
+                                      {t(`wellbeing.moreInfoLink`)}
+                                  </a>
+                              ]}
+                          ></Trans>
+                      </p>
           </div>
 
           <Link

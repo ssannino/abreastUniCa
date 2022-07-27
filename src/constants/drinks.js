@@ -1,7 +1,7 @@
-import pint_a from "assets/images/drinks/pint-a.svg";
-import wine_175ml from "assets/images/drinks/wine-175ml.svg";
+import pint_a from "assets/images/drinks/beer2.svg";
+import wine_175ml from "assets/images/drinks/wine-250ml.svg";
 import spirit_double from "assets/images/drinks/spirit-double.svg";
-import pimms from "assets/images/drinks/aperitivo80ml.png";
+import pimms from "assets/images/drinks/single-aperitifs.svg";
 
 export const drinksList = [
   {
@@ -10,7 +10,7 @@ export const drinksList = [
     container: "Pint",
     ml: 330,
     abv: 4.5,
-    units: 2.3,
+    units: 1,
     kcal: 74
   },
   {
@@ -19,17 +19,8 @@ export const drinksList = [
     container: "Standard glass",
     ml: 125,
     abv: 12,
-    units: 2.3,
+    units: 1,
     kcal: 83
-  },
-  {
-    id: "doubleSprit",
-    image: spirit_double,
-    container: "Glass",
-    ml: 40,
-    abv: 40,
-    units: 1.9,
-    kcal: 88
   },
   {
     id: "pimms",
@@ -37,7 +28,16 @@ export const drinksList = [
     container: "Glass",
     ml: 80,
     abv: 18,
-    units: 1.2,
+    units: 1,
     kcal: 80
+  },
+  {
+    id: "doubleSprit",
+    image: spirit_double,
+    container: "Glass",
+    ml: 40,
+    abv: 40,
+    units: 1,
+    kcal: 88
   }
 ];

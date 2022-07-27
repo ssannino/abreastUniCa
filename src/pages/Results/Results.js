@@ -181,9 +181,7 @@ function Results(props: Props): Element<any> {
             <PersonalisedAdvice isUserADrinker={isUserADrinker} ewac={ewacUk} audit1={audit1} auditC={auditC} />
           </section>
         </div>
-
-        {isUserADrinker && (
-          <div className={wrapperClasses} data-testid="drinker-comparison">
+        <div className={wrapperClasses} data-testid="drinker-comparison">
             <aside className="c-sidebar">
               <div className="c-sidebar__inner">
                 <img
@@ -197,31 +195,30 @@ function Results(props: Props): Element<any> {
             </aside>
             <section className={classes}>
               <h2 className="u-margin-top-none u-margin-bottom">{t("questionnaireResults.comparedToOthers.title")}</h2>
-              <div className="c-info u-flex--column">
-                <p className="c-info__heading u-margin-vertical-none">
-                  {t("questionnaireResults.comparedToOthers.percentageBar.england.ctaText")}
-                </p>
-                <p className="u-margin-vertical-none">
-                  {t("questionnaireResults.comparedToOthers.percentageBar.england.caption", {
-                    percentage: getEngPercentile(audit1, audit2, audit3)
-                  })}
-                </p>
-              </div>
-
-              <p className="u-margin-none">
-                <Trans
-                  i18nKey="questionnaireResults.deptOfHealthRecommendations.title"
-                  values={{ list: t("questionnaireResults.deptOfHealthRecommendations.list") }}
-                  components={[
-                    <List
-                      items={t("questionnaireResults.deptOfHealthRecommendations.list", { returnObjects: true })}
-                    ></List>
-                  ]}
-                ></Trans>
-              </p>
+                          <div className="c-info u-flex--column">
+                              <p className="c-info__heading u-margin-vertical-none">
+                                  {t("questionnaireResults.comparedToOthers.percentageBar.england.ctaText")}
+                              </p>
+                              <p className="u-margin-vertical-none">
+                                  {t("questionnaireResults.comparedToOthers.percentageBar.england.caption", {
+                                      percentage: getEngPercentile(audit1, audit2, audit3)
+                                  })}
+                              </p>
+                              <p className="u-margin-none">
+                                  <Trans
+                                      i18nKey="questionnaireResults.deptOfHealthRecommendations.title"
+                                      values={{ list: t("questionnaireResults.deptOfHealthRecommendations.list") }}
+                                      components={[
+                                          <List
+                                              items={t("questionnaireResults.deptOfHealthRecommendations.list", { returnObjects: true })}
+                                          ></List>
+                                      ]}
+                                  ></Trans>
+                              </p>
+                          </div>
             </section>
-          </div>
-        )}
+        </div>
+        )
 
         <div className={wrapperClasses}>
           <aside className="c-sidebar">

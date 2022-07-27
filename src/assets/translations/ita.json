@@ -2,17 +2,17 @@
 	"translation": {
 		"alcoholRisks": {
 			"title": "Rischi",
-			"strapline": "La ricerca mostra che il consumo regolare di alcol è associato a un rischio più elevato di sviluppare il cancro al seno. <0>{{list}}</0>",
+			"strapline": "Il consumo regolare di alcol è associato a un rischio più elevato di sviluppare il cancro al seno. <0>{{list}}</0> Il Grafico sottostante mostra il numero di Donne su 100 Affette da Cancro al Seno rispetto al numero di Bevande Alcoliche Consumate Ogni Giorno",
 			"list": [
-				"Il tuo rischio di cancro al seno dipenderà dalla quantità di alcol che tendi a bere.",
+				"Il tuo rischio di cancro al seno dipenderà dalla quantità di alcol che bevi.",
 				"Più alcol bevi regolarmente, più probabilità avrai di sviluppare il cancro al seno a un certo punto della tua vita.",
-				"Anche  assumere solo 1 unità di alcol al giorno può aumentare il rischio."
+				"Anche  assumere solo 1 bevanda alcolica al giorno può aumentare il rischio."
 			],
-			"body": "Il cancro al seno aumenta con il numero di unità di alcol consumate quotidianamente <0>{{list}}</0>",
+			"body": "Il cancro al seno aumenta con il numero di bevanda alcolica consumate quotidianamente <0>{{list}}</0>",
 			"statisticsList": [
 				"Su 100 donne che non bevono, 11 probabilmente svilupperanno il cancro al seno nel corso della vita.",
-				"Su 100 donne che assumono 1 unità di alcol al giorno (ad esempio, due bicchieri di vino), circa 14 svilupperanno il cancro al seno nel corso della vita.",
-				"In altre parole, l’assunzione di 1 unità di alcol al giorno fa aumentare di 3 su 100 il numero delle donne che rischiano di sviluppare il cancro al seno."
+				"Su 100 donne che assumono 1 bevanda alcolica al giorno (ad esempio, un bicchiere di vino), circa 14 svilupperanno il cancro al seno nel corso della vita.",
+				"In altre parole, l’assunzione di 1 bevanda alcolica al giorno fa aumentare di 3 su 100 il numero delle donne che rischiano di sviluppare il cancro al seno."
 			],
 			"ctas": [
 				"See how your drink measures up",
@@ -69,17 +69,17 @@
 		},
 		"changeMyRisks": {
 			"title": "Mantieni sano il tuo seno",
-			"strapline": "Molti fattori diversi influiscono sul rischio di sviluppare il cancro al seno.",
+			"strapline": "Molti fattori influiscono sul rischio di sviluppare il cancro al seno.",
 			"canChange": {
 				"title": "Cose che puoi cambiare",
-				"body": "Sebbene vi siano fattori di rischio per il cancro al seno che non puoi modificare, puoi ridurlo prestando attenzione al tuo stile di vita. \n\n Per ridurre il rischio di cancro al seno: \n<0>{{list}}</0>",
+				"body": "Sebbene vi siano fattori di rischio che non puoi modificare, puoi ridurre il rischio di sviluppare il cancro al seno prestando attenzione al tuo stile di vita. \n\n Per ridurre il rischio di cancro al seno: \n<0>{{list}}</0>",
 				"list": [
-					"Le donne obese o in sovrappeso dopo la menopausa presentano un rischio maggiore di cancro al seno rispetto alle donne con un peso sano. Anche le donne più giovani che aumentano di peso durante la vita adulta sono a maggior rischio. Si può ridurre il rischio personale di cancro al seno mantenendo un peso sano.",
-					"Fare attività fisica regolare aiuta a mantenere un peso sano ma aiuta anche a ridurre il rischio di cancro al seno in altri modi.",
+					"Le donne obese o in sovrappeso dopo la menopausa presentano un rischio maggiore di cancro al seno rispetto alle donne con un peso ideale. Questo vale anche per le donne più giovani.",
+					"Fare attività fisica regolare aiuta a mantenere un peso ideale ma aiuta anche a ridurre il rischio di cancro al seno in altri modi.",
 					"Si pensa che l'alcol da solo sia responsabile del 5-11% dei tumori al seno in Italia e in effetti potrebbe essere uno dei fattori più facili da modificare."
 				],
 				"listHeaders": [
-					"Mantieni un peso sano",
+					"Mantieni un peso ideale",
 					"Fai attività fisica",
 					"Limita la quantità di alcol che bevi"
 				],
@@ -95,8 +95,8 @@
 				"body": "Alcuni dei seguenti fattori non possono essere modificati o è difficile farlo: \n <0>{{list}}</0>",
 				"list": [
 					"Le donne hanno molte più probabilità di sviluppare il cancro al seno rispetto agli uomini.",
-					"Le donne anziane hanno una maggiore probabilità di sviluppare il cancro al seno rispetto alle donne più giovani. Il Ministero della salute invita le donne di età compresa tra 50 e 69 anni a partecipare allo screening del seno una volta ogni due anni. In alcune Regioni italiane si sta sperimentando l’efficacia di programmi di screening che coinvolgano una fascia di età più ampia, in particolare le donne tra i 45 e i 49 anni sono invitate a sottoporsi alla mammografia ogni anno, e quelle fino ai 74 anni con cadenza biennale.",
-					"Alcune donne (circa il 15% di tutte le donne che sviluppano il cancro al seno) hanno una storia familiare di cancro al seno e circa il 5% delle donne con cancro al seno ha ereditato un cambiamento in un particolare gene, il che significa un elevato rischio di sviluppare la malattia. Se pensi di avere una storia familiare di cancro al seno, o ritieni di essere a maggior rischio, ti suggeriamo di parlarne con il tuo medico di famiglia."
+					"Le donne anziane hanno una maggiore probabilità di sviluppare il cancro al seno rispetto alle donne più giovani. Il Ministero della salute invita le donne di età compresa tra 50 e 69 anni a partecipare allo screening per il tumore al seno una volta ogni due anni. In alcune Regioni italiane si sta sperimentando l’efficacia di programmi di screening che coinvolgano una fascia di età più ampia, in particolare le donne tra i 45 e i 49 anni sono invitate a sottoporsi alla mammografia ogni anno, e quelle fino ai 74 anni con cadenza biennale.",
+					"Alcune donne (circa il 15% di tutte le donne che sviluppano il cancro al seno) hanno una storia familiare di cancro al seno e circa il 5% delle donne con cancro al seno ha ereditato un cambiamento in un particolare gene, che comporta un elevato rischio di sviluppare la malattia. Se pensi di avere una storia familiare di cancro al seno, o ritieni di essere a maggior rischio, ti suggeriamo di parlarne con il tuo medico di famiglia."
 				],
 				"listHeaders": [
 					"Essere donna",
@@ -109,7 +109,7 @@
 					"Terapie ormonali"
 				],
 				"otherFactorsList": [
-					"L'inizio delle mestruazioni in età avanzata, l'avere avuto figli e l'allattamento al seno sono tutti fattori collegati a un minor rischio di sviluppare il cancro al seno più avanti nella vita.",
+					"L'inizio delle mestruazioni in età avanzata, l'avere avuto figli e l'allattamento al seno sono tutti fattori collegati a un minor rischio di sviluppare il cancro al seno.",
 					"Anche l'assunzione della terapia ormonale sostitutiva (TOS) o della pillola contraccettiva può influire sul rischio di sviluppare il cancro al seno. Se la cosa ti riguarda e sei preoccupata ti suggeriamo di discuterne con il tuo medico di famiglia."
 				]
 			},
@@ -117,12 +117,12 @@
 		},
 		"diet": {
 			"title": "Mangiare bene",
-			"body": "Mangiare bene è un buon modo per mantenere un peso sano, che mantiene bassi i rischi di cancro al seno e all'intestino e di malattie cardiache e cardiovascolari. Il SSN raccomanda di provare a: <0>{{list}}</0>",
+			"body": "Mangiare bene è un buon modo per mantenere un peso ideale, che mantiene bassi i rischi di cancro al seno e all'intestino e di malattie cardiache e cardiovascolari. Il SSN (Servizio Sanitario Nazionale) raccomanda di provare a: <0>{{list}}</0>",
 			"list": [
 				"Mangiare almeno 5 porzioni di frutta e verdura ogni giorno",
 				"Consumare pasti a base di patate, pane, riso, pasta e altri carboidrati amidacei, scegliendo le versioni integrali ove possibile",
 				"Avere alcune alternative al latte o ai latticini, scegliendo opzioni a basso contenuto di grassi e zuccheri",
-				"Mangiare fagioli, legumi, pesce, uova, carne e altre proteine (incluse 2 porzioni di pesce ogni settimana)",
+				"Variare la fonte di proteine con fagioli, legumi, pesce, uova, carne e altre proteine (incluse 2 porzioni di pesce ogni settimana)",
 				"Scegliere oli insaturi",
 				"Bere da 6 a 8 tazze/bicchieri di liquidi al giorno",
 				"Se si consumano cibi e bevande ricchi di grassi, sale o zucchero, consumarli meno spesso e in piccole quantità."
@@ -132,7 +132,7 @@
 			"common": {
 				"alcoholContent": "Contenuto Alcolico : {{unit}} unità",
 				"ABV": "(ABV {{percentage}}%",
-				"drinkInfo": "{{count}} unità - {{abv}}%",
+				"drinkInfo": "Gradazione {{abv}}% Bicchiere da {{ml}} ml Corrisponde a 12g di alcol ({{count}} unità alcolica)",
 				"drinkInfo_plural": "{{count}} unità - {{abv}}%",
 				"half": "Metà",
 				"equivalentTo": "Equivalente alimentare: {{number}} cucchiaini",
@@ -144,18 +144,18 @@
 					"glass": "Bicchiere"
 				}
 			},
-			"tag": "{{name}}, {{unit}} unità - {{abv}}%",
+			"tag": "{{name}} , {{abv}}%,{{ml}} ml, {{unit}} unità alcolica) ",
 			"lowStrengthPint": {
-				"name": "Bicchiere di Birra (330 ml)"
+				"name": "Birra"
 			},
 			"regularWine": {
-				"name": "Bicchiere di Vino (125ml)"
+				"name": "Vino"
 			},
 			"doubleSprit": {
-				"name": "Bicchierino di Superalcolico (40 ml)"
+				"name": "Superalcolico"
 			},
 			"pimms": {
-				"name": "Bicchiere di aperitivo (80 ml)"
+				"name": "Aperitivo"
 			}
 		},
 		"footer": {
@@ -181,11 +181,11 @@
 			},
 			"alcoholRisks": {
 				"title": "Rischi",
-				"strapline": "La ricerca mostra che il consumo regolare di alcol riduce la salute del tuo seno."
+				"strapline": "Il consumo regolare di alcol riduce la salute del tuo seno."
 			},
 			"whatsInMyDrink": {
 				"title": "Cosa c’è nel tuo drink?",
-				"strapline": "Scopri le unità alcoliche nel tuo drink e a cosa equivalgono in calorie."
+				"strapline": "Scopri il contenuto di alcol e di calorie delle bevande alcoliche."
 			},
 			"topTips": {
 				"title": "Suggerimenti",
@@ -261,8 +261,8 @@
 			"alcohol": {
 				"category": "Alcol",
 				"title": "L’alcol aumenta i rischi di cancro al seno?",
-				"false": "In realtà, è un rischio! La ricerca mostra che il consumo regolare di alcol è associato a un rischio più elevato di sviluppare il cancro al seno. Il rischio di cancro al seno dipenderà dalla quantità di alcol che si tende a bere.  Maggiore è il consumo regolare di alcol, maggiore sarà la probabilità di sviluppare il cancro al seno a un certo punto della vita. Anche un solo drink al giorno può aumentare il rischio.",
-				"true": "Risposta corretta! La ricerca mostra che il consumo regolare di alcol è associato a un rischio più elevato di sviluppare il cancro al seno. Il rischio di cancro al seno dipenderà dalla quantità di alcol che si tende a bere.  Maggiore è il consumo regolare di alcol, maggiore sarà la  probabilità di sviluppare il cancro al seno a un certo punto della vita. Anche un solo drink al giorno può aumentare il rischio."
+				"false": "In realtà, è un rischio! Il consumo regolare di alcol è associato a un rischio più elevato di sviluppare il cancro al seno. Il rischio di cancro al seno dipenderà dalla quantità di alcol che si tende a bere.  Maggiore è il consumo regolare di alcol, maggiore sarà la probabilità di sviluppare il cancro al seno a un certo punto della vita. Anche una sola bevanda alcolica al giorno può aumentare il rischio.",
+				"true": "Risposta corretta! Il consumo regolare di alcol è associato a un rischio più elevato di sviluppare il cancro al seno. Il rischio di cancro al seno dipenderà dalla quantità di alcol che si tende a bere.  Maggiore è il consumo regolare di alcol, maggiore sarà la  probabilità di sviluppare il cancro al seno a un certo punto della vita. Anche una sola bevanda alcolica al giorno può aumentare il rischio."
 			}
 		},
 		"offline": {
@@ -287,7 +287,7 @@
 		"progressBarAltText": "Sezione {{current}} su {{max}}, questa sezione riguarda {{category}}.",
 		"questionnaire": {
 			"showResult": "Mostra Risultati",
-			"unitsKey": "Unità Alcolica",
+			"unitsKey": "Bevanda Alcolica",
 			"one": {
 				"title": "Con quale frequenza consumi bevande alcoliche?",
 				"category": "Alcol",
@@ -348,7 +348,7 @@
 				}
 			},
 			"three": {
-				"title": "Con quale frequenza ti è capitato di bere 6 o più bevande alcoliche in un’unica occasione nell’ultimo anno?",
+				"title": "Con quale frequenza ti è capitato di bere 6 o più bevande alcoliche in un’unica occasione nel corso dell’ultimo anno?",
 				"category": "Alcol",
 				"questions": {
 					"question-three-1": {
@@ -393,17 +393,13 @@
 				"questions": {
 					"question-five-1": {
 						"label": {
-							"ft": "Piedi",
-							"inch": "Pollici",
 							"cm": "Centimetri"
 						},
 						"tab": {
-							"one": "ft / in",
-							"two": "cm"
+							"one": "cm"
 						},
 						"tabAltText": {
-							"one": "Inserisci la tua altezza in Piedi e Pollici",
-							"two": "Inserisci la tua altezza in Centimetri"
+							"one": "Inserisci la tua altezza in Centimetri"
 						}
 					}
 				}
@@ -414,28 +410,20 @@
 				"questions": {
 					"question-six-1": {
 						"label": {
-							"st": "Stone",
-							"lbs": "Libbre",
 							"kg": "Kilogrammi"
 						},
 						"tab": {
-							"one": "st / lbs",
-							"two": "kg"
+							"one": "kg"
 						},
 						"tabAltText": {
-							"one": "Inserisci il tuo peso in Stone e Libbre",
-							"two": "Inserisci il tuo peso in Kilogrammi"
+							"one": "Inserisci il tuo peso in Kilogrammi"
 						}
 					}
 				}
 			},
 			"measurements": {
-				"ft": "Piedi",
-				"st": "Stone",
-				"lbs": "Libbre",
 				"kg": "Kilogrammi",
-				"cm": "Centimetri",
-				"inch": "Pollici"
+				"cm": "Centimetri"
 			}
 		},
 		"questionnaireResults": {
@@ -470,7 +458,7 @@
 						]
 					},
 					"drinksCategoryFive": {
-						"body": "Bevi, in media,{{averageWeekUnits}} bevande alcoliche a settimana.\n\n YApportando alcune modifiche al tuo consumo di alcol puoi ridurre il rischio di sviluppare una malattia e migliorare la tua salute futura. \n <0>{{list}}</0>",
+						"body": "Bevi, in media, {{averageWeekUnits}} bevande alcoliche a settimana.\n\n Apportando alcune modifiche al tuo consumo di alcol puoi ridurre il rischio di sviluppare una malattia e migliorare la tua salute futura. \n <0>{{list}}</0>",
 						"list": [
 							"Riducendo l’assunzione di alcol diminuiranno le possibilità di contrarre patologie quali cancro, malattie cardiache o epatiche o dipendenza da alcol.",
 							"Minore è la quantità di alcol che bevi, minori saranno le probabilità di sviluppare queste patologie."
@@ -492,26 +480,26 @@
 				}
 			},
 			"comparedToOthers": {
-				"title": "Cosa bevi rispetto agli altri?",
+				"title": "Come il tuo consumo si colloca rispetto alle linee guida",
 				"percentageBar": {
 					"clinic": {
 						"ctaText": "In questa clinica",
 						"caption": "{{percentage}}% di donne beve meno alcol"
 					},
 					"england": {
-						"ctaText": "In Inghilterra",
-						"caption": "{{percentage}}% di donne beve meno alcol"
+						"ctaText": "L’alcol è un fattore di rischio per diverse patologie e incidenti e la quantità a minor rischio è zero.",
+						"caption": "I rischi più elevati sono correlati al binge drinking (assumere 5 o più bevande alcoliche in un breve periodo di tempo)"
 					}
 				}
 			},
 			"deptOfHealthRecommendations": {
-				"title": "Per mantenere una buona salute, il Dipartimento della Salute raccomanda di: <0>{{list}}</0>",
+				"title": "Secondo le Linee Guida del Ministero della Salute, un “consumo a basso rischio” per la donna (non in stato di gravidanza o allattamento, non affetta da una patologia che può essere aggravata dal consumo di alcol, non in terapia con farmaci che possono interagire con l'alcol, che non deve svolgere attività che richiedono particolare attenzione, non affetta da un disturbo da uso di alcol) è: <0>{{list}}</0>",
 				"list": [
-					"Non bere più di 14 bevande alcoliche a settimana.",
-					"Non bere 6 bevande alcoliche o più in una sola occasione.",
-					"Avere diversi giorni senza alcol ogni settimana."
+					"inferiore o uguale 7 bevande alcoliche per settimana",
+					"inferiore o uguale 1 bevanda alcolica al giorno"
 				],
-				"cta": "Scopri cosa c'è nel tuo drink "
+
+				"cta": "Scopri cosa c'è nelle Bevande Alcoliche "
 			},
 			"alcoholRisks": {
 				"title": "Fattori di rishio legati all'alcol"
@@ -541,19 +529,19 @@
 						"Se sei preoccupato per questo, chiedi consiglio al tuo medico di famiglia."
 					],
 					"two": [
-						"In base alle tue risposte, hai un peso sano.",
-						"Mantenere un peso inferiore a {{stone}}st {{lbs}}lb ({{kilos}}kg) è un buon modo per rimanere in salute."
+						"In base alle tue risposte, hai un peso ideale.",
+						"Mantenere un peso inferiore a {{kilos}}kg è un buon modo per rimanere in salute."
 					],
 					"three": [
-						"In base alle tue risposte, il tuo indice di massa corporea potrebbe essere leggermente alto.",
-						"I medici raccomandano un peso sano per mantenere bassi i rischi di malattia.",
-						"Per le donne della tua altezza, è probabile che sia inferiore a {{stone}}st {{lbs}}lb ({{kilos}}kg).",
+						"In base alle tue risposte, il tuo indice di massa corporea è superiore alla norma.",
+						"I medici raccomandano di mantenere un peso ideale per contenere i rischi di malattia.",
+						"Per le donne della tua altezza, è inferiore a {{kilos}}kg.",
 						"Nella home page puoi trovare semplici consigli su un'alimentazione sana e su come mantenerti attiva."
 					],
 					"four": [
-						"In base alle tue risposte, il tuo indice di massa corporea potrebbe essere leggermente alto.",
-						"I medici raccomandano un peso sano per mantenere bassi i rischi di malattia.",
-						"Per le donne della tua altezza, è probabile che sia inferiore a {{stone}}st {{lbs}}lb ({{kilos}}kg).",
+						"In base alle tue risposte, il tuo indice di massa corporea è superiore alla norma.",
+						"I medici raccomandano di mantenere un peso ideale per contenere i rischi di malattia.",
+						"Per le donne della tua altezza, è inferiore a {{kilos}}kg.",
 						"Nella home page puoi trovare semplici consigli su un'alimentazione sana e su come mantenerti attiva."
 					]
 				}
@@ -568,7 +556,7 @@
 			"success": "URL copiato negli appunti"
 		},
 		"smoking": {
-			"title": "Smoking",
+			"title": "Fumo",
 			"body": "Ridurre o smettere di fumare è una delle cose migliori che puoi fare per prevenire una serie di problemi di salute.\n\nEcco alcune cose che puoi fare se fumi: \n\n <0>{{list}}</0>",
 			"list": [
 				"Consulta, sul sito del Ministero della Salute, la guida per smettere di fumare dell’Istituto Superiore di Sanità (ISS) e l’elenco delle strutture sanitarie che si occupano delle problematiche legate al fumo di tabacco.",
@@ -581,26 +569,26 @@
 			"researchList": [
 				"30 minuti di attività fisica al giorno o 3 ore e mezza a settimana possono ridurre il rischio di cancro al seno di almeno il 20%",
 				"Non importa che tipo di attività svolgi, è la quantità che fa la differenza",
-				"Ciò che conta è che l'attività ti riscaldi, ti faccia respirare più forte e il cuore batta più velocemente."
+				"Ciò che conta è che l'attività ti affatichi e il cuore batta più velocemente"
 			],
-			"activityBenefitsListTitle": "L'attività fisica regolare è talvolta descritta come una medicina miracolosa. Le persone che fanno attività fisica regolare hanno: <0>{{list}}</0>",
+			"activityBenefitsListTitle": "L'attività fisica regolare è talvolta descritta come una medicina miracolosa. Le persone che svolgono attività fisica regolare hanno: <0>{{list}}</0>",
 			"activityBenefitsList": [
 				"Fino al 50% in meno di rischio di cancro al colon e diabete di tipo 2",
 				"Fino al 35% in meno di rischio di malattia coronarica o ictus",
 				"Fino al 30% in meno di rischio di depressione o demenza",
-				"Fino all'80% in meno di rischio di artrosi."
+				"Fino all'80% in meno di rischio di artrosi"
 			],
-			"nhsRecommendationListTitle": "Per rimanere in buona salute, L’IOMS consiglia di: <0>{{list}}</0>",
+			"nhsRecommendationListTitle": "Per rimanere in buona salute, L’OMS (Organizzazione Mondiale della Sanità) consiglia di: <0>{{list}}</0>",
 			"nhsRecommendationList": [
-				"Fare attività fisica ogni giorno",
-				"Fare almeno 150 minuti di attività fisica moderata ogni settimana (ad esempio bicicletta o camminata veloce) o almeno 75 minuti di attività fisica vigorosa",
-				"Fare esercizi di forza per 2 o più giorni alla settimana che facciano lavorare tutti i muscoli principali (gambe, fianchi, schiena, addome, petto, spalle e braccia)",
-				"Ridurre al minimo il tempo che si trascorre seduti."
+				"Svolgere attività fisica ogni giorno",
+				"Svolgere almeno 150 minuti di attività fisica moderata ogni settimana (ad esempio bicicletta o camminata veloce) o almeno 75 minuti di attività fisica vigorosa",
+				"Svolgere esercizi per 2 o più giorni alla settimana che facciano lavorare tutti i muscoli principali (gambe, fianchi, schiena, addome, petto, spalle e braccia)",
+				"Ridurre al minimo il tempo che si trascorre seduti"
 			],
 			"activityList": [
 				"Andare al lavoro a piedi o in bicicletta",
 				"Scendere dall'autobus una fermata prima della propria destinazione",
-				"Fare una passeggiata o un giro con gli amici piuttosto che incontrarsi per un caffè."
+				"Fare una passeggiata o un giro con gli amici piuttosto che incontrarsi per un caffè"
 			],
 			"activityListTitle": "Non preoccuparti di raggiungere subito questi obiettivi.",
 			"activityListStrapline": "Scegli un'attività che ti piace e che si adatta alla tua vita quotidiana. Il modo più semplice è inserire l’attività fisica nelle cose che fai ogni giorno, ad esempio: <0>{{list}}</0> Informazioni aggiuntive:",
@@ -616,7 +604,7 @@
 						"Acquagym",
 						"Tennis doppio",
 						"Ballare",
-						"Giardinaggio."
+						"Giardinaggio"
 					]
 				}
 			},
@@ -624,14 +612,14 @@
 				"ctaText": "Che cos'è un'attività fisica intensa?",
 				"modal": {
 					"title": "Attività fisica intensa",
-					"body": "L’attività vigorosa ti fa respirare forte e veloce. Se lavori a questo livello, non sarai in grado di dire più di poche parole senza fare una pausa per riprendere fiato. \n\nIn generale, 75 minuti di attività vigorosa possono dare benefici per la salute simili a 150 minuti di attività moderata.\n\nEsempi di attività ad alta intensità includono:\n\n <0>{{list}}</0>",
+					"body": "L’attività fisica intensa ti fa respirare più veloce. Se lavori a questo livello, non sarai in grado di dire più di poche parole senza fare una pausa per riprendere fiato. \n\nIn generale, 75 minuti di attività vigorosa possono dare benefici per la salute simili a 150 minuti di attività moderata.\n\nEsempi di attività ad alta intensità includono:\n\n <0>{{list}}</0>",
 					"list": [
 						"Fare jogging o correre",
 						"Andare in bicicletta velocemente (circa 22 km all’ora o più veloce) o in pendenza",
 						"Nuotare",
 						"Tennis singolo",
 						"Calcio, basket o rugby",
-						"Arti marziali."
+						"Arti marziali"
 					]
 				}
 			},
@@ -639,7 +627,7 @@
 				"ctaText": "Persone con disabilità",
 				"modal": {
 					"title": "Persone con disabilità",
-					"body": "Le raccomandazioni del SSN non sono diverse per le persone con disabilità fisiche o di apprendimento. \n\nTuttavia, alcune persone potrebbero ritenere che per loro sia più difficile soddisfare queste raccomandazioni. Ecco alcuni modi per aumentare l’attività in caso di disabilità: \n\n <0>{{list}}</0> \n\n Find accessible sports and classes close to your home on <1>Activity Alliance</1>.",
+					"body": "Le raccomandazioni del SSN (Servizio Sanitario Nazionale) non sono diverse per le persone con disabilità fisiche o di apprendimento. \n\nTuttavia, alcune persone potrebbero ritenere che per loro sia più difficile soddisfare queste raccomandazioni. Ecco alcuni modi per aumentare l’attività fisica in caso di disabilità: \n\n <0>{{list}}</0> \n\n Find accessible sports and classes close to your home on <1>Activity Alliance</1>.",
 					"list": [
 						"Se puoi camminare, non c’è modo più semplice per aumentare il livello di attività fisica. Cerca di includere la camminata nella tua routine quotidiana. Trova un amico con cui camminare o unisciti a un gruppo di persone che camminano per avere una motivazione in più.",
 						"Le biciclette adattate rendono il ciclismo accessibile a tutti. Biciclette speciali come tricicli, quad, biciclette azionate a mano (handcycle) e biciclette a pedalata assistita si adattano a una varietà di esigenze fisiche o di apprendimento.",
@@ -648,9 +636,9 @@
 				}
 			},
 			"olderFallRisk": {
-				"ctaText": "Anziani con una condizione limitante o a rischio di caduta",
+				"ctaText": "Anziani con problemi di deambulazione",
 				"modal": {
-					"title": "Anziani con una condizione limitante o a rischio di caduta",
+					"title": "Anziani con problemi di deambulazione",
 					"body": "Gli anziani a rischio di cadute, come le persone con gambe deboli, scarso equilibrio e determinate patologie, dovrebbero fare esercizi per migliorare l’equilibrio e la coordinazione almeno due giorni alla settimana.\n\nGli esempi includono lo yoga, il tai chi e la danza."
 				}
 			},
@@ -658,7 +646,7 @@
 				"ctaText": "Giovani (dai 5 ai 18 anni)",
 				"modal": {
 					"title": "Giovani (dai 5 ai 18 anni)",
-					"body": "Per rimanere in buona salute, il SSN raccomanda che i bambini e i giovani facciano: \n\n <0>{{list}}</0> \n\n I bambini e i giovani dovrebbero ridurre il tempo che trascorrono seduti a guardare la TV, a giocare al computer e in macchina quando invece potrebbero camminare o andare in bicicletta.",
+					"body": "Per rimanere in buona salute, il SSN (Servizio Sanitario Nazionale)  raccomanda che i bambini e i giovani facciano: \n\n <0>{{list}}</0> \n\n I bambini e i giovani dovrebbero ridurre il tempo che trascorrono seduti a guardare la TV, a giocare al computer e in macchina quando invece potrebbero camminare o andare in bicicletta.",
 					"list": [
 						"Almeno 60 minuti di attività fisica ogni giorno, moderata o vigorosa",
 						"Queste attività dovrebbero includere per tre giorni alla settimana esercizi per  rinforzare i muscoli, come le flessioni, ed esercizi per rinforzare le ossa, come saltare e correre"
@@ -682,7 +670,7 @@
 					"title": "Fai un piano",
 					"body": "<0>{{list}}</0>",
 					"list": [
-						"Datti degli obiettivi, ad esempio, mantenere un numero di giorni senza alcol ogni settimana o non bere più di un certo numero di unità alcoliche in ogni occasione in cui potresti bere alcolici.",
+						"Datti degli obiettivi, ad esempio, non bere per alcuni giorni alla settimana.",
 						"Concediti un lasso di tempo realistico per ridurre il tuo consumo di alcol.",
 						"Molte persone trovano utile annotare gli obiettivi e tenere un diario di quanto bevono. Le mantiene motivate e le aiuta a misurare i loro successi. Prova a utilizzare un’app o un diario."
 					],
@@ -691,10 +679,10 @@
 				}
 			},
 			"changeDrink": {
-				"ctaText": "Modifica il tuo drink",
+				"ctaText": "Modifica la tua bevanda",
 				"modal": {
-					"title": "Modifica il tuo drink",
-					"body": "Riduci l'alcol sostituendo birre o vini forti con bevande con una gradazione inferiore (ad es. dal 5% al 4%) o bicchieri dalle dimensioni più piccole - prova la birra in bottiglia invece delle media o un bicchiere di vino piccolo invece di uno grande.",
+					"title": "Modifica la tua bevanda",
+					"body": "Sostituisci bevande con alta gradazione alcolica (40%) con bevande a più bassa gradazione alcolica (5%) o usa bicchieri dalle dimensioni inferiori.",
 					"list": [],
 					"externalLink": "Guarda come sono le tue bevande"
 				}
@@ -706,7 +694,7 @@
 					"body": "<0>{{list}}</0>",
 					"list": [
 						"Se fai sapere ai tuoi amici e alla tua famiglia che stai cercando di ridurre il consumo di alcol e che per te è importante, potrai ricevere supporto anche da loro.",
-						"Se a casa bevi regolarmente, puoi decidere di limitare il consumo di alcol alle occasioni sociali o fuori casa."
+						"Cerca di limitare il consumo di alcol nelle occasioni sociali e quando sei fuori casa."
 					]
 				}
 			},
@@ -714,14 +702,14 @@
 				"ctaText": "Stabilisci un budget",
 				"modal": {
 					"title": "Stabilisci un budget",
-					"body": "Fissa una somma da spendere in alcolici ed evita di bere in giro con altre persone."
+					"body": "Fissa una somma da spendere in alcolici."
 				}
 			},
 			"takeABreak": {
 				"ctaText": "Fai una pausa",
 				"modal": {
 					"title": "Fai una pausa",
-					"body": "Fai in modo di stare diversi giorni senza bere ogni settimana.",
+					"body": "Fai in modo di non bere ogni settimana.",
 					"list": []
 				}
 			},
@@ -729,28 +717,28 @@
 				"ctaText": "Rimani idratata",
 				"modal": {
 					"title": "Rimani idratata",
-					"body": "Bevi un bicchiere d'acqua prima di bere alcolici e alterna le bevande alcoliche con acqua o una bibita.\n\n Puoi provare a sperimentare gustose bevande analcoliche. \n\nPer un po' di ispirazione visita <1>www.joinclubsoda.co.uk<1>."
+					"body": "Alterna le bevande alcoliche con bevande non alcoliche.\n\n Puoi provare a sperimentare gustose bevande analcoliche. \n\nPer un po' di ispirazione visita <1>www.joinclubsoda.co.uk<1>."
 				}
 			}
 		},
 		"unitKey": {
-			"title": "Una bevanda standard contiene 12 g di alcol e corrisponde a:",
+			"title": "Una Bevanda Standard (o Unità Alcolica) contiene 12 g di alcol e corrisponde a:",
 			"singleUnits": {
 				"halfPint": {
-					"title": "Bicchiere di birra",
-					"description": "un bicchiere di birra (330 ml, gradazione 4,5%)"
+					"title": "Birra",
+					"description": "Gradazione 4,5% (bicchiere di birra da 330 ml)"
 				},
 				"halfGlass": {
-					"title": "Bicchiere di vino",
-					"description": "un bicchiere di vino (125 ml, gradazione 12%)"
-				},
-				"singleSpirit": {
-					"title": "Bicchierino di superalcolico",
-					"description": "un bicchierino di superalcolico (40 ml, gradazione 40%)"
+					"title": "Vino",
+					"description": "Gradazione 12% (bicchiere di vino da 125 ml)"
 				},
 				"singleAperitifs": {
-					"title": "Bicchiere di aperitivo",
-					"description": "un bicchiere di aperitivo (80 ml, gradazione 18%)"
+					"title": "Aperitivo",
+					"description": "Gradazione 18% (bicchiere di aperitivo da 80 ml)"
+				},
+				"singleSpirit": {
+					"title": "Superalcolico",
+					"description": "Gradazione 40% (bicchierino di superalcolico da 40 ml)"
 				}
 			}
 		},
@@ -759,7 +747,7 @@
 			"body": "Essere obesi o in sovrappeso generalmente aumenta i rischi di cancro al seno. Anche una riduzione del 5% del peso corporeo riduce il rischio di cancro. Come agire per avere un peso corporeo sano: <0>{{list}}</0>",
 			"list": [
 				"Pesarsi settimanalmente tenendo d'occhio i vestiti che iniziano a diventare stretti",
-				"Regolare la dieta e l’attività fisica per mantenere un peso sano."
+				"Regolare la dieta e l’attività fisica per mantenere un peso ideale."
 			],
 			"mainLinksTitle": "I principali collegamenti tra peso e aumento del rischio di cancro al seno sono: <0>{{mainLinksList}}</0>",
 			"mainLinksList": [
@@ -770,71 +758,71 @@
 		"wellbeing": {
 			"title": "Benessere",
 			"body": "Tocca un numero per saperne di più.",
-			"moreInfo": "Per suggerimenti e app utili per migliorare la tua salute e il tuo benessere, visita <0>{{link}}</0>",
-			"moreInfoLink": "www.nhs.uk/oneyou",
+			"moreInfo": "<0>{{link}}</0>",
+			"moreInfoLink": "https://www.salute.gov.it/portale/alcol/dettaglioContenutiAlcol.jsp?lingua=italiano&id=5526&area=alcol&menu=vuoto",
 			"imageCredit": "Vettore infografico creato da Freepik",
 			"infoCtas": {
 				"moodAndAnxiety": {
 					"ctaText": "{{number}}: Migliora il tuo umore e riduci l’ansia",
 					"modal": {
 						"title": "Migliora il tuo umore e riduci l’ansia",
-						"body": "Molte persone bevono per rilassarsi e combattere la sensazione di stress, ma l'effetto dell'alcol sul cervello in realtà, nel tempo, aumenta le sensazioni di depressione e ansia e riduce la probabilità che si faccia ricorso ad altre modalità (ad esempio passeggiate, chat con gli amici, lettura) che aiutano a mantenere i livelli di stress sotto controllo e che si costruisca una propria resilienza allo stress. \n\nPerché non fare una lista di 10 cose, che non implicano il consumo di alcol, da fare per ridurre lo stress? Impegnati a provarne almeno una alla settimana."
+						"body": "Molte persone bevono per rilassarsi e combattere la sensazione di stress, ma l'effetto dell'alcol sul cervello in realtà, nel tempo, aumenta le sensazioni di depressione e ansia e riduce la probabilità che si faccia ricorso ad altre modalità (ad esempio passeggiate, chat con gli amici, lettura) che aiutano a mantenere i livelli di stress sotto controllo e che si costruisca una propria resilienza allo stress. \n\nPerché non fare una lista di 10 cose, che non implicano il consumo di alcol, da fare per ridurre lo stress? Impegnati a provarne almeno una alla settimana. Attieniti ai consigli delle linee guida del Ministero della Salute "
 					}
 				},
 				"dementia": {
 					"ctaText": "{{number}}: Maggiore concentrazione e minori rischi di demenza",
 					"modal": {
 						"title": "Maggiore concentrazione e minori rischi di demenza",
-						"body": "(In costruzione)"
+						"body": "L’alcol è una sostanza sedativa che riduce l’attenzione, la concentrazione e rallenta i riflessi. Il consumo elevato di alcol aumenta il rischio di demenza. Per migliorare l’attenzione e ridurre il rischio di demenza attieniti ai consigli delle linee guida del Ministero della Salute "
 					}
 				},
 				"liver": {
 					"ctaText": "{{number}}: Un fegato sano",
 					"modal": {
 						"title": "Un fegato sano",
-						"body": "(In costruzione)"
+						"body": "Il fegato è uno dei principali bersagli degli effetti tossici dell’alcol. Inizialmente le conseguenze sul fegato inducono la steatosi o fegato grasso. Questa malattia reversibile ovvero se il consumo di alcol viene sospeso può regredire. Se invece il consumo di alcol continua le conseguenze sul fegato diventano irreversibili con la comparsa di disturbi più gravi come la cirrosi epatica. Per proteggere il fegato attieniti ai consigli delle linee guida del Ministero della Salute "
 					}
 				},
 				"hairSkinNails": {
 					"ctaText": "{{number}}: Pelle, capelli e unghie sani",
 					"modal": {
 						"title": "Pelle, capelli e unghie sani",
-						"body": "Pelle, capelli e unghie sani possono davvero migliorare il tuo aspetto. \n\nL'alcol disidrata la pelle rendendola spenta e stanca. Dilata anche i vasi sanguigni facciali, la causa delle vene a ragnatela. Molte bevande alcoliche sono anche ricche di zuccheri, che possono causare infiammazioni e picchi di insulina e che fanno gonfiare la pelle.\n\n Anche i capelli e le unghie trarranno beneficio da buoni livelli di idratazione, poiché l'alcol può lasciarli secchi e fragili. \n\nSe hai sete, perché non sostituire le bevande contenenti alcol con quelle che idratano il corpo?"
+						"body": "Pelle, capelli e unghie sani possono davvero migliorare il tuo aspetto. \n\nL'alcol disidrata la pelle rendendola spenta e stanca. Dilata anche i vasi sanguigni facciali, la causa delle vene a ragnatela. Molte bevande alcoliche sono anche ricche di zuccheri, che possono causare infiammazioni e picchi di insulina e che fanno gonfiare la pelle.\n\n Anche i capelli e le unghie trarranno beneficio da buoni livelli di idratazione, poiché l'alcol può lasciarli secchi e fragili. \n\nSe hai sete, perché non sostituire le bevande contenenti alcol con quelle che idratano il corpo? Attieniti ai consigli delle linee guida del Ministero della Salute "
 					}
 				},
 				"sleep": {
 					"ctaText": "{{number}}: Migliora la qualità del sonno",
 					"modal": {
 						"title": "Migliora la qualità del sonno",
-						"body": "Le persone spesso ritengono che bere alcolici le aiuti ad addormentarsi. L’alcol può aiutare a far venire il sonno, ma la ricerca mostra che impedisce di dormire profondamente interrompendo il ciclo naturale del sonno, lasciando la stanchezza al giorno successivo. \n\nMolte persone scoprono che riducendo il consumo di alcol dormono più profondamente e si sentono riposate al mattino."
+						"body": "Le persone spesso ritengono che bere alcolici le aiuti ad addormentarsi. L’alcol può aiutare a far venire il sonno, ma la ricerca mostra che impedisce di dormire profondamente interrompendo il ciclo naturale del sonno, lasciando la stanchezza al giorno successivo. \n\nMolte persone scoprono che riducendo il consumo di alcol dormono più profondamente e si sentono riposate al mattino. attieniti ai consigli delle linee guida del Ministero della Salute "
 					}
 				},
 				"nutrition": {
 					"ctaText": "{{number}}: Migliora l’alimentazione",
 					"modal": {
 						"title": "Migliora l’alimentazione",
-						"body": "L'alcol è ricco di calorie che non contengono alcun valore nutritivo e possono abbassare i livelli di zucchero nel sangue facendoti sentire affamata e più propensa a mangiare cibo ad alto contenuto di zuccheri e grassi.\n\nScopri quante calorie puoi risparmiare riducendo la quantità di alcol che bevi."
+						"body": "L'alcol è ricco di calorie che non contengono alcun valore nutritivo e possono abbassare i livelli di zucchero nel sangue facendoti sentire affamata e più propensa a mangiare cibo ad alto contenuto di zuccheri e grassi.\n\nScopri quante calorie puoi risparmiare riducendo la quantità di alcol che bevi. Attieniti ai consigli delle linee guida del Ministero della Salute "
 					}
 				},
 				"heart": {
 					"ctaText": "{{number}}: Proteggi cuore e circolazione",
 					"modal": {
 						"title": "Proteggi cuore e circolazione",
-						"body": "(In costruzione)"
+						"body": "Il consumo di alcol moderato riduce il rischio di infarto del miocardio. Il consumo elevato rappresenta un fattore di rischio per altre malattie cardiovascolari quali ipertensione arteriosa, cardiomiopatia dilatativa e ictus. Complessivamente cumulando gli effetti benefici e quelli negativi, l’alcol rappresenta un fattore di rischio per la salute e la quantità di alcol con minori effetti negativi per la salute è pari a zero.  Per proteggere cuore e circolazione attieniti ai consigli delle linee guida del Ministero della Salute "
 					}
 				},
 				"digestion": {
-					"ctaText": "{{number}}: Digestione sana e basso rischio di cancro",
+					"ctaText": "{{number}}: Proteggi il tuo sistema digerente",
 					"modal": {
-						"title": "Migliora la digestione",
-						"body": "(In costruzione)"
+						"title": "Proteggi il tuo sistema digerente",
+						"body": "Il consumo di alcol rappresenta un fattore di rischio per l’apparato digerente. L’alcol aumenta infatti il rischio di sviluppare tumori localizzati soprattutto alla prima parte dell’apparato digerente e al colon-retto, lesioni dell’esofago, gastrite, pancreatite e riduce l’assorbimento di importanti fattori nutrizionali come, ad esempio, la vitamina B1 (tiamina). La carenza di tiamina è a sua volta responsabile di gravi conseguenze per la salute. Per proteggere il tuo sistema digerente attieniti ai consigli delle linee guida del Ministero della Salute "
 					}
 				},
 				"staySafe": {
 					"ctaText": "{{number}}: Evita le situazioni di pericolo",
 					"modal": {
 						"title": "Evita le situazioni di pericolo",
-						"body": "Bere troppo, troppo velocemente, in ogni singola occasione può aumentare il rischio di incidenti (incluse le cadute), compromettere il giudizio (indurti a pensare che una certa cosa sia vera quando non lo è affatto), e farti fare cose (guidare, avere rapporti sessuali non protetti, iniziare una discussione) che non sceglieresti di fare se avessi il pieno controllo di te stessa. \n\nForse potresti stabilire un limite a quanto berrai per sicuro evitare situazioni di pericolo e avere il controllo di ciò che fai e dici?"
+						"body": "Bere troppo, troppo velocemente, in ogni singola occasione può aumentare il rischio di incidenti (incluse le cadute), compromettere il giudizio (indurti a pensare che una certa cosa sia vera quando non lo è affatto), e farti fare cose (guidare, avere rapporti sessuali non protetti, iniziare una discussione) che non sceglieresti di fare se avessi il pieno controllo di te stessa. \n\nForse potresti stabilire un limite a quanto berrai per evitare situazioni di pericolo e avere il controllo di ciò che fai e dici? Attieniti ai consigli delle linee guida del Ministero della Salute "
 					}
 				}
 			}
@@ -847,7 +835,7 @@
 			"clearTotal": "Cancella Totale",
 			"kcal": "{{number}} kcal",
 			"removeDrink": "Rimuovi bevanda: {{drink}}",
-			"title": "Cosa c'è nella tua bevanda",
+			"title": "Cosa c'è nella tua bevanda alcolica",
 			"tooltip": "Aggiungi una bevanda per iniziare",
 			"steps": {
 				"one": {
@@ -861,8 +849,8 @@
 				}
 			},
 			"ukUnitInfo": {
-				"title": "Unità alcolica",
-				"body": "Una bevanda standard contiene 12 g di alcol e corrisponde a: <0>{{list}}</0>",
+				"title": "Bevanda Alcolica",
+				"body": "Una Bevanda Standard (o Unità Alcolica) contiene 12 g di alcol e corrisponde a: <0>{{list}}</0>",
 				"list": [
 					"un bicchiere di birra (330 ml)",
 					"un bicchiere di vino (125 ml)",
@@ -873,12 +861,12 @@
 			},
 			"deptOfHealth": {
 				"title": "La raccomandazione dei medici",
-				"body": "Il Dipartimento della Salute ti consiglia: <0>{{list}}</0>",
+				"body": "L’alcol è un fattore di rischio per diverse patologie e incidenti e la quantità a minor rischio è zero. \n\n I rischi più elevati sono correlati al binge drinking (assumere 5 o più bevande alcoliche in un breve periodo di tempo). \n Secondo le Linee Guida del Ministero della Salute, un “consumo a basso rischio” per la donna (non in stato di gravidanza o allattamento, non affetta da una patologia che può essere aggravata dal consumo di alcol, non in terapia con farmaci che possono interagire con l'alcol, che non deve svolgere attività che richiedono particolare attenzione, non affetta da un disturbo da uso di alcol) è: <0>{{list}}</0>",
 				"list": [
-					"Bere meno di 14 bevande alcoliche a settimana",
-					"Mantenere almeno 2 giorni senza alcol ogni settimana",
-					"Non bere mai più di 6 bevande alcoliche in una singola sessione"
-				]
+					"inferiore o uguale a 7 bevande alcoliche per settimana",
+					"inferiore o uguale a 1 bevanda alcolica al giorno"
+				],
+				"additionalContent": " "
 			},
 			"reset": "Resetta",
 			"results": {

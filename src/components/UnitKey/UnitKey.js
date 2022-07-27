@@ -5,9 +5,9 @@ import { useTranslation } from "react-i18next";
 import Header from "components/Header/HeaderContainer";
 import DrinkCard from "components/Elements/DrinkCard/DrinkCard";
 
-import pintImage from "assets/images/drinks/pint-a.svg";
+import pintImage from "assets/images/drinks/beer2.svg";
 import wineImage from "assets/images/drinks/half-wine.svg";
-import aperitifsImage from "assets/images/drinks/aperitivo80ml.png";
+import aperitifsImage from "assets/images/drinks/single-aperitifs.svg";
 import spiritImage from "assets/images/drinks/single-spirit.svg";
 const UnitKey = props => {
   const { t } = useTranslation();
@@ -24,18 +24,18 @@ const UnitKey = props => {
       title: t("unitKey.singleUnits.halfGlass.title"),
       description: t("unitKey.singleUnits.halfGlass.description"),
       image: wineImage
+      },
+    {
+      id: "singleAperitifs",
+      title: t("unitKey.singleUnits.singleAperitifs.title"),
+      description: t("unitKey.singleUnits.singleAperitifs.description"),
+      image: aperitifsImage
     },
     {
       id: "singleSprit",
       title: t("unitKey.singleUnits.singleSpirit.title"),
       description: t("unitKey.singleUnits.singleSpirit.description"),
       image: spiritImage
-    },
-    {
-      id: "singleAperitifs",
-      title: t("unitKey.singleUnits.singleAperitifs.title"),
-      description: t("unitKey.singleUnits.singleAperitifs.description"),
-      image: aperitifsImage
     }
   ];
 

@@ -59,7 +59,7 @@ function DrinkCalculator(props: Props): Element<any> {
 
   const totalUnits = isDrinksSelected ? selectedDrinks.map(item => item.units).reduce((prev, next) => prev + next) : 0;
   const totalKcal = isDrinksSelected ? selectedDrinks.map(item => item.kcal).reduce((prev, next) => prev + next) : 0;
-  const sugar = totalKcal ? Math.round(totalKcal / 25) : 0;
+  const sugar = totalKcal ? Math.round(totalKcal / 16) : 0;
   return (
     <>
       <Header isHomeBtnVisible isShareVisible isEndSessionBtnVisible />
@@ -124,10 +124,13 @@ function DrinkCalculator(props: Props): Element<any> {
                     i18nKey="whatsInYourDrink.deptOfHealth.body"
                     values={{ list: t("whatsInYourDrink.deptOfHealth.list") }}
                     components={[
-                      <List items={t("whatsInYourDrink.deptOfHealth.list", { returnObjects: true })}></List>
+                    <List items={t("whatsInYourDrink.deptOfHealth.list", { returnObjects: true })}></List>
                     ]}
+                              
+
                   ></Trans>
                 </p>
+
                 <p className="c-drink-calculator__info u-margin-bottom-none u-margin-top-small">
                   <Trans
                     i18nKey="whatsInYourDrink.ukUnitInfo.body"
@@ -135,6 +138,7 @@ function DrinkCalculator(props: Props): Element<any> {
                     components={[<List items={t("whatsInYourDrink.ukUnitInfo.list", { returnObjects: true })}></List>]}
                   ></Trans>
                 </p>
+                              
               </div>
 
               <div className={resultsButtonWrapperClasses}>
@@ -201,7 +205,7 @@ function DrinkCalculator(props: Props): Element<any> {
                           {t(`drinks.${drink.id}.name`)}
                         </h3>
                         <p className="c-drink-card__subtitle u-margin-top-none u-margin-bottom-small">
-                          {t("drinks.common.drinkInfo", { count: drink.units, abv: drink.abv })}
+                                  {t("drinks.common.drinkInfo", { abv: drink.abv , ml:drink.ml, count: drink.units })}
                         </p>
                       </div>
                     </DrinkCard>
@@ -218,7 +222,7 @@ function DrinkCalculator(props: Props): Element<any> {
                       return (
                         <Tag
                           key={`drink.id-${index}`}
-                          text={t("drinks.tag", { name: readableDrinkName, unit: drink.units, abv: drink.abv })}
+                              text={t("drinks.tag", { name: readableDrinkName, abv: drink.abv, ml: drink.ml, unit: drink.units })}
                           ctaText={t("whatsInYourDrink.removeDrink", { drink: readableDrinkName })}
                           onSelect={() => {
                             console.log("removed drink:", drink); // for testers
@@ -299,7 +303,7 @@ function DrinkCalculator(props: Props): Element<any> {
                             {t(`drinks.${drink.id}.name`)}
                           </h3>
                           <p className="c-drink-card__subtitle u-margin-top-none u-margin-bottom-small">
-                            {t("drinks.common.drinkInfo", { count: drink.units, abv: drink.abv })}
+                                    {t("drinks.common.drinkInfo", { abv: drink.abv, ml: drink.ml, count: drink.units })}
                           </p>
                         </div>
                       </DrinkCard>

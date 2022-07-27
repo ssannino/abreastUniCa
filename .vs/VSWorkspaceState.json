@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\public",
+    "\\src",
+    "\\src\\pages",
+    "\\src\\pages\\Questionnaire",
+    "\\src\\redux",
+    "\\src\\routes",
+    "\\src\\style",
+    "\\src\\style\\components"
+  ],
+  "SelectedNode": "\\src\\index.js",
+  "PreviewInSolutionExplorer": false
+}

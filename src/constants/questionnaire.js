@@ -116,10 +116,6 @@ const questionFive = [
     options: [
       {
         label: "one",
-        items: ["ft", "inch"]
-      },
-      {
-        label: "two",
         items: ["cm"]
       }
     ],
@@ -133,10 +129,6 @@ const questionSix = [
     options: [
       {
         label: "one",
-        items: ["st", "lbs"]
-      },
-      {
-        label: "two",
         items: ["kg"]
       }
     ],

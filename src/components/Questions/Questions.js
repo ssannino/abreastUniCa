@@ -448,7 +448,7 @@ const Questions = (props: Props): Element<any> => {
         )}
         {isUnitKeyVisible && (
           <Button
-            className="c-button--secondary u-margin-top-auto c-questionnaire__btn"
+            className="c-button--tertiary u-margin-top-auto c-questionnaire__btn"
             onClick={() => setModalVisible(true)}
           >
             {t("questionnaire.unitsKey")}
