@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\.github",
-    "\\public",
+    "\\.github\\workflows",
+    "\\.yarn",
+    "\\.yarn\\releases",
+    "\\flow-typed\\npm",
     "\\src",
-    "\\src\\pages",
-    "\\src\\pages\\Questionnaire",
-    "\\src\\redux",
     "\\src\\routes",
     "\\src\\style",
     "\\src\\style\\components"
   ],
-  "SelectedNode": "\\src\\index.js",
+  "SelectedNode": "\\bitbucket-pipelines.yml",
   "PreviewInSolutionExplorer": false
 }
