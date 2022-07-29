@@ -1,16 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
-    "\\.github\\workflows",
-    "\\.yarn",
-    "\\.yarn\\releases",
-    "\\flow-typed\\npm",
-    "\\src",
-    "\\src\\routes",
-    "\\src\\style",
-    "\\src\\style\\components"
+    "\\src\\assets",
+    "\\src\\assets\\translations",
+    "\\src\\components\\Elements\\Tooltip",
+    "\\src\\components\\Footer",
+    "\\src\\components\\Header",
+    "\\src\\components\\MythQuestions",
+    "\\src\\components\\PersonalisedAdvice",
+    "\\src\\components\\Questions",
+    "\\src\\components\\UnitKey"
   ],
-  "SelectedNode": "\\bitbucket-pipelines.yml",
   "PreviewInSolutionExplorer": false
 }
